@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "nav.html" . }}
+
+    <div class="jumbotron main-header">
+      <div class="container">
+        <h1>RSCM Carolina Course for Girls &amp; Adults</h1>
+        <p>
+          Welcome to the Royal School of Church Music Carolina Course for Girls
+          and Adults -- a week long summer course of sacred music.
+        </p>
+        <p>{{ .Site.Params.dateline }}</p>
+        <p>
+          <a class="btn btn-primary btn-lg" href="/courses/{{ .Site.Params.current }}" role="button">
+             Registration Information &raquo;
+         </a>
+       </p>
+     </div>
+   </div>
+
+   <section>
+     <div class="container">
+       <h1 class="text-center">RSCM Carolina Course News</h1>
+
+         <p class="text-center">
+         <a href="https://www.facebook.com/RSCMCarolinaCourse"><i class="social fa fa-facebook"></i></a>
+         <a href="https://twitter.com/hashtag/RSCMCC"><i class="social fa fa-twitter"></i></a>
+         </p>
+
+     {{ range $i, $v := first 6 ( where .Data.Pages "Section" "news" ) }}
+       {{ if eq 0 ( mod $i 3 ) }}
+         <div class="row">
+       {{ end }}
+
+           <div class="col-sm-4">
+             <h2>
+               <a href="{{ $v.Permalink }} ">{{ $v.Title }}</a>
+             </h2>
+             <p class="text-muted">{{ $v.Date.Format "January 2, 2006" }}</p>
+             <p>{{ $v.Summary }}</p>
+           </div>
+
+       {{ if eq 2 ( mod $i 3 ) }}
+         </div>
+       {{ end }}
+     {{ end }}
+
+     <div class="row">
+       <div class="text-center" style="padding: 2em;">
+         <p>
+           <a class="btn btn-primary btn-lg text-center" role="button" href="/news">
+             More News &raquo;
+           </a>
+         </p>
+       </div>
+     </div>
+
+     </div>
+   </section>
+
+   <section>
+     <div class="container">
+       <div class="col-sm-6 donate">
+         <h1>Donate Today!</h1>
+         <p>
+           Your tax deductible donation to the RSCM Carolina Course helps
+           provide quality music education and brings sacred music to the
+           Triangle.
+         </p>
+       </div>
+
+       <div class="col-sm-6 donate">
+           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+             <input type="hidden" name="cmd" value="_s-xclick">
+             <input type="hidden" name="hosted_button_id" value="RBAYVCCBC5GQ4">
+             <input class="img-responsive" type="image" src="/images/paypal-button.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+           </form>
+        </div>
+      </div>
+    </section>
+
+    {{ partial "foot.html" . }}
+
+  </body>
+</html>

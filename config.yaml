@@ -1,0 +1,26 @@
+baseurl: "http://test.carolinarscm.org"
+languageCode: "en-us"
+title: "RSCM Carolina Course for Girls & Adults"
+description: Psallam spiritu et mente
+MetaDataFormat: "yaml"
+copyright: "Copyright &#xA9; 2015 RSCM Carolina Course for Girls &amp; Adults"
+
+params:
+  googlesite: carolinarscm.org
+
+  dateline: The 2015 course dates are July 13th through July 19th.
+  current: 2015
+
+menu:
+  main:
+    - name: About
+      weight: 100
+    - name: Contact Us
+      weight: 100
+      url: /contact
+    - name: Past Courses
+      weight: 100
+    - name: Directors and Organists
+      parent: Past Courses
+      weight: -50
+      url: /courses/

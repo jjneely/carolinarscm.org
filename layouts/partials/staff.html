@@ -1,0 +1,24 @@
+{{ $length := len . }}
+{{ range $i, $v := . }}
+{{ if eq (mod $i 3) 0 }}
+<div class="row">
+{{ end }}
+{{ if gt 3 $length }}
+<div class="col-sm-{{ div 12 $length }}">
+{{ else }}
+<div class="col-sm-4">
+{{ end }}
+<figure>{{ with $v.img }}
+<img src="{{ . }}" alt="{{ $v.name }}" class="img-responsive img-rounded center-block" style="height: 180px; width: 150px" />{{ end }}
+<figcaption>
+<p class="text-center"><strong>{{ $v.position }}</strong><br />{{ $v.name }}</p>
+</figcaption>
+</figure>
+</div><!-- col-sm-X -->
+{{ if eq (mod $i 3) 2 }}
+</div><!-- /row -->
+{{ end }}
+{{ end }}
+{{ if gt (mod $length 3) 0 }}
+</div><!-- /row -->
+{{ end }}

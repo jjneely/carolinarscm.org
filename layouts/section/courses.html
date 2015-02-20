@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "nav.html" .}}
+
+    <div class="jumbotron default-header">
+        <div class="container">
+          <h1>Past Directors and Organists</h1>
+      </div>
+    </div>
+
+{{ range $i, $v := .Data.Pages }}
+    <section>
+      <div class="container"><div class="col-sm-12">
+        {{ if eq ( len $v.Content ) 0 }}
+        <h1>{{ $v.Title }}</h1>
+        {{ else }}
+        <h1><a href="{{ $v.Permalink }}">{{ $v.Title }}</a></h1>
+        {{ end }}
+
+        {{ partial "staff.html" $v.Params.staff.list }}
+
+      </div></div>
+    </section>
+{{ end }}
+
+    {{ partial "foot.html" . }}
+
+  </body>
+</html>

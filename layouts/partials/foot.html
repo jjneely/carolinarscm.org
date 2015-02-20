@@ -1,0 +1,19 @@
+      <footer>
+      <div class="contianer">
+        <div class="panel-footer text-center">
+        <p class="text-muted">
+          {{ with .Site.Copyright }} {{. | safeHtml}} {{ else }}
+          You have not set <code>.Site.Copyright</code> in your
+          Hugo configuration.{{ end}}
+        </p>
+        </div>
+      </div>
+      </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/js/ie10-viewport-bug-workaround.js"></script>

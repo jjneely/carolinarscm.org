@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "nav.html" .}}
+
+    <div class="jumbotron default-header">
+        <div class="container">
+            <h1>{{ .Title }} RSCM Carolina Course Registration</h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+      <div class="col-md-8 center-block" style="margin-top: 40px;">
+          {{ .Content }}
+      </div>
+      </div>
+
+    </div><!-- /.container -->
+
+    {{ partial "foot.html" . }}
+
+  </body>
+</html>
