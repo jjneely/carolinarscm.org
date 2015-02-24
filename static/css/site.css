@@ -1,6 +1,6 @@
 .main-header {
     margin-bottom: 0px;
-    background-image: url(/images/preces.jpg);
+    background-image: url(/images/procession.jpg);
     background-position: 100% 25%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,8 +10,8 @@
 
 .default-header {
     margin-bottom: 0px;
-    background-image: url(/images/default-header.jpg);
-    background-position: 0% 25%;
+    background-image: url(/images/preces3.jpg);
+    background-position: 100% 25%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
