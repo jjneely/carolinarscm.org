@@ -30,6 +30,6 @@ worship, matters.
 
 ## More about the RSCM
 
-{{% figure src=/wp-content/uploads/2010/08/rscm-america-icon.gif title="RSCM America" link=http://www.rscmamerica.org %}}
-{{% figure src=/wp-content/uploads/2010/08/rscm-international-192x300.gif title="RSCM International" link=http://www.rscm.com %}}
+{{% figure src="/wp-content/uploads/2010/08/rscm-america-icon.gif" title="RSCM America" link="http://www.rscmamerica.org" %}}
+{{% figure src="/wp-content/uploads/2010/08/rscm-international-192x300.gif" title="RSCM International" link="http://www.rscm.com" %}}
 
