@@ -11,6 +11,9 @@ params:
   dateline: The 2015 course dates are July 13th through July 19th.
   current: 2015
 
+  # Max number of new articles to show on main page
+  maxnews: 3
+
 menu:
   main:
     - name: About

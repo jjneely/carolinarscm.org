@@ -33,7 +33,7 @@
          </p>
 
          <div class="row">
-     {{ range $i, $v := first 6 ( where .Data.Pages "Section" "news" ) }}
+     {{ range $i, $v := first .Site.Params.maxnews ( where .Data.Pages "Section" "news" ) }}
        {{ if and ( gt $i 0 ) ( modBool $i 3 ) }}
          </div>
          <div class="row">
