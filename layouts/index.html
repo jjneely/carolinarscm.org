@@ -32,8 +32,10 @@
          <a href="https://twitter.com/hashtag/RSCMCC"><i class="social fa fa-twitter"></i></a>
          </p>
 
+         <div class="row">
      {{ range $i, $v := first 6 ( where .Data.Pages "Section" "news" ) }}
-       {{ if eq 0 ( mod $i 3 ) }}
+       {{ if and ( gt $i 0 ) ( modBool $i 3 ) }}
+         </div>
          <div class="row">
        {{ end }}
 
@@ -42,13 +44,13 @@
                <a href="{{ $v.Permalink }} ">{{ $v.Title }}</a>
              </h2>
              <p class="text-muted">{{ $v.Date.Format "January 2, 2006" }}</p>
-             <p>{{ $v.Summary }}</p>
+             <p>
+               {{ $v.Summary }}
+            </p>
            </div>
 
-       {{ if eq 2 ( mod $i 3 ) }}
-         </div>
-       {{ end }}
      {{ end }}
+         </div>
 
      <div class="row">
        <div class="text-center" style="padding: 2em;">

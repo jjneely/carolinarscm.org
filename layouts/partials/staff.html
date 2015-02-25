@@ -1,6 +1,8 @@
 {{ $length := len . }}
+<div class="row">
 {{ range $i, $v := . }}
-{{ if eq (mod $i 3) 0 }}
+{{ if and ( gt $i 0 ) ( modBool $i 3 ) }}
+</div>
 <div class="row">
 {{ end }}
 {{ if gt 3 $length }}
@@ -15,10 +17,5 @@
 </figcaption>
 </figure>
 </div><!-- col-sm-X -->
-{{ if eq (mod $i 3) 2 }}
+{{ end }}
 </div><!-- /row -->
-{{ end }}
-{{ end }}
-{{ if gt (mod $length 3) 0 }}
-</div><!-- /row -->
-{{ end }}
