@@ -7,7 +7,7 @@ url: /2010/10/our-music-director-richard-webster/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-128 alignleft" title="Richard-Webster-headshot" src="http://carolinarscm.org/cms/wp-content/uploads/2010/08/Richard-Webster-headshot.jpg" alt="Richard Webster" width="149" height="187" />][1]Richard Webster is a choral conductor, composer, church musician and organist of wide renown. He is in demand for newly commissioned anthems, organ and instrumental works, liturgical music and hymn tunes, and travels extensively to direct hymn festivals, choral workshops and perform organ recitals. His hymn arrangements for brass, percussion, organ and congregation are performed in churches and concert halls throughout the English-speaking world. The Canadian Broadcasting Company perennially features these hymns on their Easter and Christmas broadcasts. His settings have also been televised on BBC’s “Songs of Praise,” the most widely viewed religious music program in the world.
+[<img class="size-full wp-image-128 alignleft" title="Richard-Webster-headshot" src="/wp-content/uploads/2010/08/Richard-Webster-headshot.jpg" alt="Richard Webster" width="149" height="187" />][1]Richard Webster is a choral conductor, composer, church musician and organist of wide renown. He is in demand for newly commissioned anthems, organ and instrumental works, liturgical music and hymn tunes, and travels extensively to direct hymn festivals, choral workshops and perform organ recitals. His hymn arrangements for brass, percussion, organ and congregation are performed in churches and concert halls throughout the English-speaking world. The Canadian Broadcasting Company perennially features these hymns on their Easter and Christmas broadcasts. His settings have also been televised on BBC’s “Songs of Praise,” the most widely viewed religious music program in the world.
 
 He has written articles on church music for The American Organist, The Diapason, Chicago Tribune, The Living Church and the Journal of the Association of Anglican Musicians, and is a contributing author to Leading the Church’s Song, published by Augsburg.
 
@@ -17,4 +17,4 @@ As an organist with the Chicago Symphony Orchestra, he has performed and recorde
 
 As a diversion, Richard loves running, and has completed 19 marathons, including the Boston Marathon seven times.
 
- [1]: http://carolinarscm.org/cms/wp-content/uploads/2010/08/Richard-Webster-headshot.jpg
+ [1]: /wp-content/uploads/2010/08/Richard-Webster-headshot.jpg

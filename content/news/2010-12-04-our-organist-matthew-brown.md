@@ -7,7 +7,7 @@ url: /2010/12/our-organist-matthew-brown/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-127 alignleft" title="matthew-brown-headshot" src="http://carolinarscm.org/cms/wp-content/uploads/2010/08/matthew-brown-headshot.jpg" alt="Matthew Brown" width="150" height="187" />][1]Matthew Brown is the Director of Music at First United Methodist Church, Salisbury, NC. Previously, Mr. Brown served on the music staff of Grace Church in New York City, and was responsible for service playing and assisting in the conducting of the Choir of Men and Boys, the Girls&#8217; Choir, and the parish&#8217;s professional Adult Choir. He maintained an active accompanying career in New York City.
+[<img class="size-full wp-image-127 alignleft" title="matthew-brown-headshot" src="/wp-content/uploads/2010/08/matthew-brown-headshot.jpg" alt="Matthew Brown" width="150" height="187" />][1]Matthew Brown is the Director of Music at First United Methodist Church, Salisbury, NC. Previously, Mr. Brown served on the music staff of Grace Church in New York City, and was responsible for service playing and assisting in the conducting of the Choir of Men and Boys, the Girls&#8217; Choir, and the parish&#8217;s professional Adult Choir. He maintained an active accompanying career in New York City.
 
 <div>
   <p>
@@ -23,4 +23,4 @@ categories:
 
 ﻿
 
- [1]: http://carolinarscm.org/cms/wp-content/uploads/2010/08/matthew-brown-headshot.jpg
+ [1]: /wp-content/uploads/2010/08/matthew-brown-headshot.jpg

@@ -11,4 +11,4 @@ We are now taking orders for the 2013 CD recording!  The recording includes Euc
 
   * [2013 CD Order Form][1]
 
- [1]: http://carolinarscm.org/cms/wp-content/uploads/2013/08/cd-flyer-2013.pdf
+ [1]: /wp-content/uploads/2013/08/cd-flyer-2013.pdf

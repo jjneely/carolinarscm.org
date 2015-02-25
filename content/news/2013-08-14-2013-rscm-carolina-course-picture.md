@@ -8,5 +8,5 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="http://carolinarscm.org/cms/wp-content/uploads/2013/08/course-picture-2013.jpg"><img class=" wp-image-571 aligncenter" alt="2013 RSCM Carolina Course" src="http://carolinarscm.org/cms/wp-content/uploads/2013/08/course-picture-2013.jpg" width="1252" height="698" /></a>
+  <a href="/wp-content/uploads/2013/08/course-picture-2013.jpg"><img class=" wp-image-571 aligncenter" alt="2013 RSCM Carolina Course" src="/wp-content/uploads/2013/08/course-picture-2013.jpg" width="1252" height="698" /></a>
 </p>

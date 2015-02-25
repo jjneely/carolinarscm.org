@@ -40,4 +40,4 @@ If you have any questions, please contact us via our [contact page][1].
 [RSCM Organ Scholar Flyer][2]
 
  [1]: /contact/
- [2]: http://carolinarscm.org/cms/wp-content/uploads/2014/09/RSCM-Organ-Scholar-Flyer.pdf
+ [2]: /wp-content/uploads/2014/09/RSCM-Organ-Scholar-Flyer.pdf

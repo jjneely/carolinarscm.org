@@ -15,9 +15,9 @@ CDs of the Eucharist and Evensong on Sunday, July 13th can be ordered by mailing
 
 We look forward to seeing everyone July 13th &#8211; 19th, 2015!
 
-[<img class="aligncenter size-large wp-image-650" src="http://carolinarscm.org/cms/wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-2014-1024x647.jpg" alt="RSCM Carolina Course Choir 2014" width="640" height="404" />][3][<img class="aligncenter size-large wp-image-651" src="http://carolinarscm.org/cms/wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-Adults-2014-1024x623.jpg" alt="RSCM Carolina Course Choir Adults 2014" width="640" height="389" />][4]
+[<img class="aligncenter size-large wp-image-650" src="/wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-2014-1024x647.jpg" alt="RSCM Carolina Course Choir 2014" width="640" height="404" />][3][<img class="aligncenter size-large wp-image-651" src="/wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-Adults-2014-1024x623.jpg" alt="RSCM Carolina Course Choir Adults 2014" width="640" height="389" />][4]
 
  [1]: https://carolinarscm.org/course-information/course-feedback/
- [2]: http://carolinarscm.org/cms/wp-content/uploads/2014/07/2014-cd-flyer.pdf
- [3]: http://carolinarscm.org/cms/wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-2014.jpg
- [4]: http://carolinarscm.org/cms/wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-Adults-2014.jpg
+ [2]: /wp-content/uploads/2014/07/2014-cd-flyer.pdf
+ [3]: /wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-2014.jpg
+ [4]: /wp-content/uploads/2014/07/RSCM-Carolina-Course-Choir-Adults-2014.jpg
