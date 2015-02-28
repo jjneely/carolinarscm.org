@@ -27,3 +27,17 @@ menu:
       parent: Past Courses
       weight: -50
       url: /courses/
+
+  links:
+    - name: Central North Carolina Chapter of the American Guild of Organists
+      url: http://www.agohq.org/chapters/centralnc/
+    - name: John-Paul Buzard Pipe Organ Builders
+      url: http://buzardorgans.com/
+    - name: Katie Dickson Photography
+      url: http://www.katiedickson.com/
+    - name: Charlotte Training Course for Boys, Girls, Teens, and Adults
+      url: http://www.saintjohns-charlotte.org/rscm/
+    - name: RSCM America
+      url: http://www.rscmamerica.org
+    - name: RSCM International
+      url: http://www.rscm.com

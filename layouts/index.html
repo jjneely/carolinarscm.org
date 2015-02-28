@@ -87,6 +87,32 @@
       </div>
     </section>
 
+    <section>
+      <div class="container">
+        <div class="row">
+          <h1 class="text-center">Friends of the RSCM Carolina Course</h1>
+        </div>
+        <div class="row">
+          {{ range $i, $v := .Site.Menus.links }}
+            {{ if modBool $i 2 }}
+              {{ if gt $i 0 }}
+        </div>
+              {{ end }}
+        <div class="row">
+            {{ end }}
+          <div class="col-sm-6">
+            <h4>
+              <i class="fa fa-music fa-fw"></i>
+              <a href="{{ $v.Url }}">
+                {{ $v.Name }}
+              </a>
+            </h4>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
     {{ partial "foot.html" . }}
 
   </body>
