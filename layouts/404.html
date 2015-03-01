@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "nav.html" .}}
+
+    <div class="jumbotron default-header">
+        <div class="container">
+          <h1>{{ with .Section }}{{ title . }}{{ else }}RSCM Carolina Course for Girls &amp; Adults{{ end }}</h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="col-md-8 center-block">
+
+          <div class="page-header">
+            <h1>Page Not Found</h1>
+            <p class="text-muted">
+              Error code 404: The page you requested was not found.
+            </p>
+          </div>
+
+          <div class="news-content">
+            </p>
+              Use the navigation menus at the top of your window to navigate
+              back to the <a href="{{ .Site.BaseUrl }}">RSCM Carolina Course
+              website</a>.
+            </p>
+          </div>
+
+      </div>
+
+    </div><!-- /.container -->
+
+    {{ partial "foot.html" . }}
+
+  </body>
+</html>
