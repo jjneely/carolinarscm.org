@@ -1,4 +1,4 @@
-baseurl: "http://test.carolinarscm.org"
+baseurl: "http://carolinarscm.org"
 languageCode: "en-us"
 title: "RSCM Carolina Course for Girls & Adults"
 description: Psallam spiritu et mente
@@ -12,7 +12,7 @@ params:
   current: 2015
 
   # Max number of new articles to show on main page
-  maxnews: 3
+  maxnews: 4
 
 menu:
   main:
