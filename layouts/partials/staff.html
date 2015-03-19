@@ -13,7 +13,11 @@
 <figure>{{ with $v.img }}
 <img src="{{ . }}" alt="{{ $v.name }}" class="img-responsive img-rounded center-block" style="height: 180px; width: 150px" />{{ end }}
 <figcaption>
+{{ with $v.img }}
 <p class="text-center"><strong>{{ $v.position }}</strong><br />{{ $v.name }}</p>
+{{ else }}
+<p class="text-center" style="margin-top: 50px;"><strong>{{ $v.position }}</strong><br />{{ $v.name }}</p>
+{{ end }}
 </figcaption>
 </figure>
 </div><!-- col-sm-X -->
