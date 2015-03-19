@@ -5,7 +5,7 @@
 # This expects (and does NOT check for) s3cmd to be installed and configured!
 # This expects (and does NOT check for) hugo to be installed and on your $PATH
 
-bucket='test.carolinarscm.org'
+bucket='carolinarscm.org'
 prefix=''
 
 #branch=$(git rev-parse --abbrev-ref HEAD)
