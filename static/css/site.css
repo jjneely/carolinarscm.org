@@ -71,6 +71,11 @@ section {
           transition: all .2s ease-in-out;
 }
 
+figcaption {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
 .news-content img {
   margin: 0 auto;
   display: block;
