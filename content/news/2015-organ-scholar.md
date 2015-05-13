@@ -15,7 +15,7 @@ Distinguished Visiting Professor of Organ, Marie-Louise Langlais. Further
 studies have been at the McGill Summer Organ Academy with John Grew. An active
 recitalist, Richard has performed at notable venues including National City
 Christian Church in Washington, DC, Church of the Little Flower in Bethesda,
-MD, and The Cathedral Church of St. Luke and St. Paul in Charleston, SC, where
+MD, and The Cathedral Church of St Luke and St Paul in Charleston, SC, where
 he was a featured artist in the L’Organo Series of the 2014 Piccolo Spoleto
 Festival. After completing his studies at Oberlin, Richard will pursue graduate
 studies with Stefan Engels at Southern Methodist University in Dallas.

@@ -41,11 +41,16 @@
 
            <div class="col-sm-4">
              <h2>
-               <a href="{{ $v.Permalink }} ">{{ $v.Title }}</a>
+               <a href="{{ $v.Permalink }}">{{ $v.Title }}</a>
              </h2>
              <p class="text-muted">{{ $v.Date.Format "January 2, 2006" }}</p>
              <p>
                {{ $v.Summary }}
+            </p>
+            <p>
+              <a href="{{ $v.Permalink }}">
+                <i class="fa fa-file-text-o"></i> Read More...
+              </a>
             </p>
            </div>
 

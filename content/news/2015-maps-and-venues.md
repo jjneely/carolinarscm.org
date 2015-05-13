@@ -7,15 +7,27 @@ slug: 2015-maps-and-venues
 
 All are welcome to join the RSCM Carolina Course in worship and song
 as we all seek to perfect the praises offered by God's people on
-earth.  Below are also some local points of interest, restaurants,
-hotels, and locations of the churches where we will worship.
+earth.  Also below are local points of interest and the locations
+of churches where we will worship.
 
 ## Services, Locations, and Times
+
+* **Sunday, July 19, 10:00 AM**  
+  Choral Eucharist  
+  [Chapel of the Cross][2]  
+  304 East Franklin Street  
+  Chapel Hill, NC
+
+* **Sunday, July 19, 4:00 PM**  
+  Festival Evensong  
+  [St Michael's Episcopal Church][3]  
+  1520 Canterbury Road  
+  Raleigh, NC
 
 * **Tuesday, July 14, 5:00 PM**  
   Evensong  
   [Saint Mary's Chapel][1]  
-  900 Hillsborough St.  
+  900 Hillsborough Street  
   Raleigh, NC
 
 * **Wednesday, July 15, 5:00 PM**  
@@ -29,18 +41,6 @@ hotels, and locations of the churches where we will worship.
 * **Friday, July 17, 5:10 PM**  
   Evensong  
   [Saint Mary's Chapel][1]
-
-* **Sunday, July 19, 10:00 AM**  
-  Choral Eucharist  
-  [Chapel of the Cross][2]  
-  304 East Franklin St.  
-  Chapel Hill, NC
-
-* **Sunday, July 19, 4:00 PM**  
-  Festival Evensong  
-  [St. Michael's Episcopal Church][3]  
-  1520 Canterbury Road  
-  Raleigh, NC
 
 ## Google Map
 
