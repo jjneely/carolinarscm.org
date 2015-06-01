@@ -27,6 +27,9 @@ menu:
       parent: Past Courses
       weight: -50
       url: /courses/
+    - name: Course Feedback Survey
+      weight: 150
+      url: http://goo.gl/forms/yEcGPLXIoE
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists
