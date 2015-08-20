@@ -12,7 +12,7 @@ params:
   current: 2016
 
   # Max number of new articles to show on main page
-  maxnews: 6
+  maxnews: 3
 
 menu:
   main:
@@ -30,9 +30,9 @@ menu:
 #    - name: Maps
 #      weight: 140
 #      url: https://www.google.com/maps/d/edit?mid=zF-x4rG4Mzvs.kMBQPQlL_wOk
-    - name: Course Feedback Survey
-      weight: 150
-      url: http://goo.gl/forms/yEcGPLXIoE
+#    - name: Course Feedback Survey
+#      weight: 150
+#      url: http://goo.gl/forms/yEcGPLXIoE
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists
