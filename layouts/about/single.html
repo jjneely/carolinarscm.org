@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "nav.html" .}}
+
+    <div class="jumbotron default-header">
+        <div class="container">
+          <h1>{{ with .Section }}{{ title . }}{{ else }}RSCM Carolina Course for Girls &amp; Adults{{ end }}</h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="col-md-8 center-block">
+
+          <div class="page-header">
+            <h1>{{ .Title }}</h1>
+          </div>
+
+            {{ .Content }}
+
+      </div>
+
+    </div><!-- /.container -->
+
+    {{ partial "foot.html" . }}
+
+  </body>
+</html>
