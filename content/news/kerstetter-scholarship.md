@@ -6,13 +6,15 @@ categories:
   - Uncategorized
 ---
 
-{{% figure src="/images/kerstetter-scholarship.jpg" alt="Kevin Kerstetter" caption="Kevin Kerstetter" %}}
-
 Established in 2015, *The Kerstetter Scholarship* honors the extraordinary
 leadership and devotion of Kevin Kerstetter to the RSCMA Carolina Summer
 Training Course. This annual scholarship, given through the generosity of an
 anonymous donor, provides course tuition for a deserving chorister with a
 demonstrated need each year. ￼
+
+<!--more-->
+
+{{% figure src="/images/kerstetter-scholarship.jpg" alt="Kevin Kerstetter" %}}
 
 Scholarship requests remain confidential and are considered on a first come
 first serve basis. Scholarship applications are considered without
