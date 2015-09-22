@@ -12,7 +12,7 @@ params:
   current: 2016
 
   # Max number of new articles to show on main page
-  maxnews: 3
+  maxnews: 4
 
 menu:
   main:
