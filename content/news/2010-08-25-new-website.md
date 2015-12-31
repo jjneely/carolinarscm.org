@@ -11,5 +11,5 @@ Greetings from your webmaster and welcome to the very new web site for the RSCM 
 
 The image used as the header is the 2006 course picture in front of Duke Chapel.  The back ground image is several measures of Charles Wood&#8217;s &#8220;O Thou The Central Orb&#8221; as found in the [Choral Public Domain Library][2].
 
- [1]: /about "About Carolina RSCM"
- [2]: http://www.cpdl.org "CPDL"
+[1]: /about "About Carolina RSCM"
+[2]: http://www.cpdl.org "CPDL"

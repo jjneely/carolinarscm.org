@@ -15,4 +15,4 @@ In great demand as an organ recitalist, workshop leader, and choral conductor, M
 
 As a music educator, Mr. Ridgell has been involved with the Royal School of Church Music for over 20 years. Together with Gregory Glenn and Msgr. Francis Mannion, he helped build the choral foundation of the Madeleine Choir School in Salt Lake City, the only co-educational Roman Catholic choir school in the United States. In 2004 he founded the Princeton Girlchoir Alumnae Cantores. He has prepared choristers for performances with the San Francisco Opera, the Mormon Tabernacle Choir, Frederica von Stade, Robert Redford, and EMI Records. From 2006-2007, Mr. Ridgell was the Artistic Director of the Archdiocese of Philadelphia&#8217;s Bicentennial Concert Orchestra and Chorus with over 400 students. In New York City, Mr. Ridgell founded the Trinity Youth Chorus in 2005. Since then, this community-based youth choir program has grown to over 200 choristers and is one of the leading youth choir/community music programs in revitalized Lower Manhattan.
 
- [1]: /wp-content/uploads/2011/09/rob-headshot-scaled.jpg
+[1]: /wp-content/uploads/2011/09/rob-headshot-scaled.jpg

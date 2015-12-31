@@ -11,4 +11,4 @@ The daily schedule of events is now available for the 2011 RSCM Carolina Course.
 
 [Daily Schedule (PDF)][1]
 
- [1]: /wp-content/uploads/2011/06/Daily_Schedule-2.pdf
+[1]: /wp-content/uploads/2011/06/Daily_Schedule-2.pdf

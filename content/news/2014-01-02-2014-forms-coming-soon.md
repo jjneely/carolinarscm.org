@@ -17,4 +17,4 @@ Please feel free to email the registrar or course manager with any questions tha
 
 Thank you and we look forward to hearing and talking with many of you soon!
 
- [1]: /contact
+[1]: /contact

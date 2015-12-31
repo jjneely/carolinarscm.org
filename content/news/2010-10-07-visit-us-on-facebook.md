@@ -9,4 +9,4 @@ categories:
 ---
 Fan of the RSCM Carolina Course?  Alumni of the course?  Planning on attending? Join us on [Facebook][1]!
 
- [1]: http://www.facebook.com/group.php?gid=2756776647 "Facebook"
+[1]: http://www.facebook.com/group.php?gid=2756776647 "Facebook"

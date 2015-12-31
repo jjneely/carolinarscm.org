@@ -11,5 +11,5 @@ Thanks go to the [Central North Carolina Chapter of the American Guild of Organi
 
 Membership in the [American Guild of Organists][2] is open to all persons interested in the organ and choral music fields.  Join and support your local chapter!
 
- [1]: http://www.agohq.org/chapters/centralnc/
- [2]: http://www.agohq.org/membership/membership-overview/
+[1]: http://www.agohq.org/chapters/centralnc/
+[2]: http://www.agohq.org/membership/membership-overview/

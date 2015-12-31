@@ -11,4 +11,4 @@ During the 2011 Carolina Course we were fortunate to have a professional photogr
 
 <a href="http://katiedickson.smugmug.com/Portraits/RSCM/20087834_zWmwWj" target="_blank">http://katiedickson.smugmug.<wbr>com/Portraits/RSCM/20087834_<wbr>zWmwWj</wbr></wbr></a>
 
- [1]: http://www.katiedickson.com "Katie Dickson Photography"
+[1]: http://www.katiedickson.com "Katie Dickson Photography"

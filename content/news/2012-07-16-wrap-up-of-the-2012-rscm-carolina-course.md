@@ -17,4 +17,4 @@ Course participants, parents, gardians, and visitors to the 2012 RSCM Carolina C
 
 The 2013 RSCM Carolina Course will be held July 8 through 14, 2013.  Our music directory will be David Hill of the London Bach Choir and Chief Conductor of the BBC Singers.  At the organ bench will be David Arcus, Duke Chapel Organist and Associate University Organist.  Our closing services will be held in Duke Chapel and St. Michael&#8217;s Episcopal Church.
 
- [1]: /course-information/course-feedback/
+[1]: /course-information/course-feedback/

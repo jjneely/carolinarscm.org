@@ -15,5 +15,5 @@ David’s schedule includes more than 60 concerts a year, spanning several conti
 
 David Briggs is also a prolific composer and his works range from full scale oratorios to works for solo instruments. He has recorded a DVD, and 30 CDs, many of which include his own compositions and transcriptions. For more information, Please visit: [www.david-briggs.org][2].
 
- [1]: /wp-content/uploads/2011/09/david-briggs-scaled.jpg
- [2]: http://www.david-briggs.org
+[1]: /wp-content/uploads/2011/09/david-briggs-scaled.jpg
+[2]: http://www.david-briggs.org

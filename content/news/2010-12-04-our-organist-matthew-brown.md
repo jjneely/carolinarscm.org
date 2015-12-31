@@ -1,5 +1,5 @@
 ---
-title: 'Our Organist &#8211; Matthew Brown'
+title: 'Our Organist: Matthew Brown'
 author: jjneely
 layout: post
 date: 2010-12-04
@@ -23,4 +23,4 @@ categories:
 
 ﻿
 
- [1]: /wp-content/uploads/2010/08/matthew-brown-headshot.jpg
+[1]: /wp-content/uploads/2010/08/matthew-brown-headshot.jpg

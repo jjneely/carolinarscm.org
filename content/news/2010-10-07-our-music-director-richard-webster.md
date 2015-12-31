@@ -1,5 +1,5 @@
 ---
-title: 'Our Music Director &#8211; Richard Webster'
+title: 'Our Music Director: Richard Webster'
 author: jjneely
 layout: post
 date: 2010-10-08
@@ -17,4 +17,4 @@ As an organist with the Chicago Symphony Orchestra, he has performed and recorde
 
 As a diversion, Richard loves running, and has completed 19 marathons, including the Boston Marathon seven times.
 
- [1]: /wp-content/uploads/2010/08/Richard-Webster-headshot.jpg
+[1]: /wp-content/uploads/2010/08/Richard-Webster-headshot.jpg

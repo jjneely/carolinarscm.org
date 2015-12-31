@@ -17,4 +17,4 @@ A chorister scholarship is being established in Tucky&#8217;s honor for the RSCM
 
 Tucky&#8217;s obituary in *The Pilot* of Southern Pines can be found <a href="http://r20.rs6.net/tn.jsp?llr=evkju7cab&et=1109244773746&s=348&e=001NxTvwYs61q_l4tZjA7T6N-pPcqhwSFGCkgJBKjq8-fo6pZ2Rv0BRHNvLGFH2Pke4cbbJCcHd5nOPZatIMPYzG2h0XiLVDS_vqplTtStHw5kF6YTZXfJC-kLy56W3Hf2VIbDKTkgWszxvSPTIIA4YcJpm_AP39nDia7lIstmrsM0846H0G6pa4w==" shape="rect" target="_blank">here</a>.
 
- [1]: /wp-content/uploads/2010/08/tuckythompson-headshot.jpg
+[1]: /wp-content/uploads/2010/08/tuckythompson-headshot.jpg

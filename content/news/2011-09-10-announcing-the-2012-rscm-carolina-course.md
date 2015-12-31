@@ -15,4 +15,4 @@ Our organist for 2012 will be Robert Ridgell.  Currently the Director of Sacred
 
 We look forward to seeing everyone  July 9 through 15.
 
- [1]: http://www.david-briggs.org/ "David Briggs"
+[1]: http://www.david-briggs.org/ "David Briggs"

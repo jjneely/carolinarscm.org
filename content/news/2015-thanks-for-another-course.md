@@ -32,6 +32,6 @@ press.
 
 We look forward to seeing everyone June 27th - July 3rd, 2016!
 
- [1]: http://goo.gl/forms/yEcGPLXIoE
- [2]: /contact/
- [3]: /pdf/2015-cd-flyer.pdf
+[1]: http://goo.gl/forms/yEcGPLXIoE
+[2]: /contact/
+[3]: /pdf/2015-cd-flyer.pdf
