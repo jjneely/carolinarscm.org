@@ -13,5 +13,5 @@ You can find all of your forms and pricing information on our [Registration Info
 
 All of us are looking forward to seeing you in July!
 
- [1]: /course-information/registration-and-forms/ "Registration Information"
- [2]: /course-information/repertoire/
+[1]: /course-information/registration-and-forms/ "Registration Information"
+[2]: /course-information/repertoire/

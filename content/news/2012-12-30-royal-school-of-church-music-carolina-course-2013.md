@@ -39,5 +39,5 @@ See our FaceBook Page: <http://www.facebook.com/RSCMCarolinaCourse>
 
 Royal School of Church Music in America Website, for information about all of the marvelous summer Training Courses: [www.rscmamerica.org][2]
 
- [1]: http://carolinarscm.org/course-information/registration-and-forms/
- [2]: http://www.rscmamerica.org
+[1]: http://carolinarscm.org/course-information/registration-and-forms/
+[2]: http://www.rscmamerica.org

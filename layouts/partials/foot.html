@@ -1,7 +1,7 @@
       <footer class="footer">
       <div class="container">
         <p class="text-muted text-center">
-          {{ with .Site.Copyright }} {{. | safeHtml}} {{ else }}
+          {{ with .Site.Copyright }} {{. | safeHTML }} {{ else }}
           You have not set <code>.Site.Copyright</code> in your
           Hugo configuration.{{ end}}
         </p>

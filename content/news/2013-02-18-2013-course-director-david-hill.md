@@ -15,4 +15,4 @@ David Hill’s broad-ranging discography of over 70 recordings, including many a
 
 David Hill has appeared as guest conductor with the London Philharmonic, Royal Liverpool Philharmonic, the Sydney Symphony Orchestra, Zagreb Philharmonic, Ulster Orchestra, City of London Sinfonia, English Chamber Orchestra, The BBC National Orchestra of Wales, Sinfonia 21, the Northern Sinfonia, BBC Symphony Orchestra, RTE National Symphony Orchestra, The Minnesota Orchestra and the Orchestre Philharmonique de Strasbourg as well as the Netherlands Radio Choir and RIAS Kammerchor, Berlin. His commitment to new music has led to his conducting first performances of works by Judith Bingham, Carl Rütti, Francis Pott, Patrick Gowers, Jonathan Harvey, Philip Moore and Naji Hakim, Sir John Tavener and Philip Wilby amongst others.
 
- [1]: /wp-content/uploads/2010/08/david-hill-headshot.jpg
+[1]: /wp-content/uploads/2010/08/david-hill-headshot.jpg

@@ -13,5 +13,5 @@ We are limited to the first 35 girls, so the first ones to get their deposit mon
 
 Please feel free to email the registrar or course manager with any questions that you may have concerning the course. Contact information is on the [contact page][2].
 
- [1]: /course-information/registration-and-forms/
- [2]: http://carolinarscm.org/contact
+[1]: /course-information/registration-and-forms/
+[2]: http://carolinarscm.org/contact

@@ -26,10 +26,10 @@ Course participants, parents, gardians, and visitors to the 2012 RSCM Carolina C
 
 &nbsp;
 
- [1]: http://www.sms.edu/
- [2]: http://www.christ-church-raleigh.org/
- [3]: http://holymichael.org/
- [4]: /course-information/maps-and-venues/
- [5]: http://www.facebook.com/RSCMCarolinaCourse
- [6]: http://www.facebook.com/RscmCarolinaCourseDocumentary
- [7]: /course-information/course-feedback/
+[1]: http://www.sms.edu/
+[2]: http://www.christ-church-raleigh.org/
+[3]: http://holymichael.org/
+[4]: /course-information/maps-and-venues/
+[5]: http://www.facebook.com/RSCMCarolinaCourse
+[6]: http://www.facebook.com/RscmCarolinaCourseDocumentary
+[7]: /course-information/course-feedback/

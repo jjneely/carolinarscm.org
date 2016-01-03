@@ -9,4 +9,4 @@ categories:
 ---
 We have partnered with a local distributor to assist with ordering the course music.  To order music for the 2011 Carolina Course check out the [Repertoire Page][1].
 
- [1]: /course-information/repertoire/
+[1]: /course-information/repertoire/
