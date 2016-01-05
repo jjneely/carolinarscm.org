@@ -17,7 +17,12 @@
         <p>{{ .Site.Params.dateline }}</p>
         <p>
           <a class="btn btn-primary btn-lg" href="/courses/{{ .Site.Params.current }}" role="button">
-             Registration Information &raquo;
+              {{ .Site.Params.current }} Course Information &raquo;
+          </a>
+        </p>
+        <p>
+          <a class="btn btn-primary btn-lg" href="/register/" role="button">
+              Register Today &raquo;
          </a>
        </p>
      </div>

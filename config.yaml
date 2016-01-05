@@ -23,6 +23,9 @@ menu:
       url: /contact
     - name: Past Courses
       weight: 100
+    - name: Register
+      weight: 1
+      url: /register
     - name: Directors and Organists
       parent: Past Courses
       weight: -50
