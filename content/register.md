@@ -21,26 +21,25 @@ Google Forms.
 <a class="btn btn-primary btn-lg" href="http://goo.gl/forms/xaKrYLNNIg">Register Online!</a>
 </p>
 
-A signature page is also required as part of the registration forms.  This
-one page document contains your signature, parent or guardian signature,
-the signature of your choir director, and signature of your rector or
-pastor.  This must be completed and sent to the [registrar][7] by mail or
-scan / photo.
+When registering electronically the following forms must also be completed
+and either mailed or sent via scan / photo to the [registrar][7].  When
+completed these forms contain signatures and safety information that is
+kept on file by the RSCM America.
 
-* Girl Participant Signature Page
-* Adult/Saff Participant Signature Page
-* [2016 Self Declaration Form][5] (Adults and Staff)
-* [2016 Reference Forms][4] (Adults and Staff, Every 3 Years)
+* [Girl Participant Signature Page][13]
+* [Adult/Staff Participant Signature Page][12]
+* [Self Declaration Form][5] (Adults and Staff Only)
+* [Reference Forms][4] (Adults and Staff Only, Every 3 Years)
 
-Staff members are also required to submit the registration and signature
-page.
+Staff members are also required to register and submit the above forms.
 
 A $100 deposit is required with completed registration forms to reserve
 your place in this year's RSCM Carolina Course.  Please see payment information
 below.
 
 You may also use the hard copy forms which may be mailed to the [registrar][7]
-or scanned and emailed.
+or scanned and emailed.  These forms contain the necessary signatures and
+safety information.
 
 * [2016 Girl Chorister Packet][1]
 * [2016 Adult Packet][2]
@@ -109,4 +108,6 @@ is available.
 [9]: /pdf/2016/2016BehaviorPolicy.pdf
 [10]: /pdf/2016/2016MedicalConsent.pdf
 [11]: /pdf/2016/2016PhotoMediaRelease.pdf
+[12]: /pdf/2016/Signature_Page_Adults.pdf
+[13]: /pdf/2016/Signature_Page_Girls.pdf
 [20]: https://www.paypal.com/home
