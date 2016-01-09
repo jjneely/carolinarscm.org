@@ -50,8 +50,8 @@ safety information.
 Hard copies for reference:
 
 * [Behavior Policy][9]
-* Photo and Media Release [Girls][11] and [Adults][8]
-* [Medical Consent][10]
+* [Photo and Media Release][11]
+* [Consent Release][10]
 
 If you have any questions please feel free to [contact us!][7]
 
@@ -104,9 +104,8 @@ is available.
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact
-[8]: /pdf/2016/2016AdultPhotoMedia.pdf
 [9]: /pdf/2016/2016BehaviorPolicy.pdf
-[10]: /pdf/2016/2016MedicalConsent.pdf
+[10]: /pdf/2016/2016ConsentRelease.pdf
 [11]: /pdf/2016/2016PhotoMediaRelease.pdf
 [12]: /pdf/2016/Signature_Page_Adults.pdf
 [13]: /pdf/2016/Signature_Page_Girls.pdf
