@@ -94,9 +94,39 @@ can also send any questions you have by email or phone.
 Remember that you are responsible for purchasing, obtaining, and practicing
 your music before you arrive at the course.
 
-The music for the 2016 course has not been finalized yet.  We will update
-this page with repertoire and ordering information as soon as information
-is available.
+The RSCM Carolina Course is pleased once again to partner with Cliff Hill Music
+in providing music packets for our course participants.  Please contact Mr.
+Hill via [e-mail][21] or phone (800-819-8772) to purchase your packet. Packets
+are $21.82 each.
+
+## Eucharist
+
+* Mass Setting  
+  Franz Josef Haydn  
+  *Missa Brevis Sti Joannis de Deo* (Gloria, Credo, Sanctus/Benedictus (small ensemble), Agnus Dei)
+* Offertory Anthem  
+  William Mathias  
+  *Let all the people praise thee, O God*
+* Communion Motets  
+  Ola Gjeilo  
+  *Ubi caritas*  
+* Michael Sitton  
+  *That most excellent gift of charity*
+
+## Evensong
+
+* Choral Introit  
+  Gary Davison  
+  *A Prayer of Self-Dedication*
+* Andrew Walker  
+  *Phos hilaron*
+* Philip Moore  
+  *Preces and Responses (Guildford Cathedral)*
+* T. Tertius Noble  
+  *Evening Canticles in B minor*
+* Anthem  
+  C.H.H. Parry  
+  *Dear Lord and Father of Mankind*
 
 [1]: /pdf/2016/Chorister_Packet_2016.pdf
 [2]: /pdf/2016/Adult_Packet_2016.pdf
@@ -110,3 +140,4 @@ is available.
 [12]: /pdf/2016/Signature_Page_Adults.pdf
 [13]: /pdf/2016/Signature_Page_Girls.pdf
 [20]: https://www.paypal.com/home
+[21]: cliff@cliffhillmusic.com
