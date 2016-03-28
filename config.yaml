@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "RSCM Carolina Course for Girls & Adults"
 description: Psallam spiritu et mente
 MetaDataFormat: "yaml"
-copyright: "Copyright &#xA9; 2015 RSCM Carolina Course for Girls &amp; Adults"
+copyright: "Copyright &#xA9; 2016 RSCM Carolina Course for Girls &amp; Adults"
 
 params:
   googlesite: carolinarscm.org
@@ -12,7 +12,7 @@ params:
   current: 2016
 
   # Max number of new articles to show on main page
-  maxnews: 6
+  maxnews: 5
 
 menu:
   main:

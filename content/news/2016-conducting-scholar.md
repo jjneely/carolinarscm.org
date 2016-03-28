@@ -2,6 +2,7 @@
 date: 2015-11-05T20:40:08-05:00
 title: 2016 Conducting Scholar
 layout: post
+draft: true
 ---
 
 The 2016 RSCM Carolina Course is pleased to offer another exciting initiative

@@ -2,6 +2,7 @@
 date: 2015-11-05T20:50:37-05:00
 title: 2016 Organ Scholar
 layout: post
+draft: true
 ---
 
 The *Royal School of Church Music in America's Carolina Summer Training Course*
