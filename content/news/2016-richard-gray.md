@@ -1,6 +1,6 @@
 ---
 date: 2016-03-28
-title: 2016 Carolina Course Organ Scholar and Conducting Scholar
+title: 2016 Carolina Course Assistant Organist and Conducting Scholar
 author: jjneely
 layout: post
 categories:
@@ -10,7 +10,7 @@ categories:
 The RSCM Carolina Course is pleased to welcome *Mr. Richard Gray* as this year's
 Assistant Course Organist and Conducting Scholar.
 
-{{% figure src="/images/people/richard-gray.jpg" title="Richard Gray" %}}
+{{% figure src="/images/people/richard-gray-2016.jpg" title="Richard Gray" %}}
 
 *Richard Gray*, a native of Beaufort, SC, is a candidate for the Master of Music
 in Organ Performance at Southern Methodist University Meadows School of the
