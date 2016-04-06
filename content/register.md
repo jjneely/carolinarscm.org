@@ -12,6 +12,11 @@ have Dr. Michael Velting from Christ Church Cathedral, Nashville, TN as
 music director and Colin Lynch from Trinity Church, Copley Square, Boston,
 MA as course organist.
 
+Maps:
+
+* [Printable PDF][22] of St. Mary's School Campus
+* [Google Online Map][23]
+
 # Registration Forms
 
 We encourage you to submit your registration forms electronically using
@@ -141,3 +146,5 @@ are $21.82 each.
 [13]: /pdf/2016/Signature_Page_Girls.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
+[22]: /pdf/st-marys-campus-map.pdf
+[23]: https://www.google.com/maps/place/Saint+Mary's+School/@35.7828446,-78.6551186,17z/data=!3m1!4b1!4m2!3m1!1s0x89ac5f630bc17a43:0xf4e7b6d05fd3b619
