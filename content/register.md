@@ -1,6 +1,7 @@
 ---
 title: "Registration Information"
 date: 2016-01-04
+layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
