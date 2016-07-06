@@ -32,13 +32,13 @@ find the password on page 56 of your 2016 RSCM binder.  Of course, you can also
 
 # Recordings
 
-CDs of the Eucharist and Evensong on Sunday June 3rd, 2016 may be purchased
-by mailing in page 57 of your 2016 RSCM binder with payment.
-Please send in your orders before August 20th so we know how many CDs to
-press.
+CDs of the Eucharist and Evensong on Sunday June 3rd, 2016 may be purchased by
+mailing in the [CD Order Form][3] which can also be found on page 57 of your
+2016 RSCM binder with payment.  Please send in your orders before August 20th
+so we know how many CDs to press.
 
 We look forward to seeing everyone July 10th - July 16rd, 2017!
 
 [1]: http://goo.gl/forms/yEcGPLXIoE
 [2]: /contact/
-[3]: /pdf/2015-cd-flyer.pdf
+[3]: /pdf/2016/cd-flyer.pdf
