@@ -23,9 +23,9 @@ menu:
       url: /contact
     - name: Past Courses
       weight: 100
-    - name: Register
-      weight: 1
-      url: /register
+#    - name: Register
+#      weight: 1
+#      url: /register
     - name: Directors and Organists
       parent: Past Courses
       weight: -50
@@ -33,9 +33,9 @@ menu:
 #    - name: Maps
 #      weight: 140
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
-#    - name: Course Feedback Survey
-#      weight: 150
-#      url: http://goo.gl/forms/yEcGPLXIoE
+    - name: Course Feedback Survey
+      weight: 150
+      url: https://goo.gl/k5nh53
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists
