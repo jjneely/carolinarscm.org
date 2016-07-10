@@ -26,7 +26,8 @@ You can watch the Closing Evensong at Duke Chapel on YouTube!
 
 # Course Evaluation and Feedback
 
-The course evaluation and feedback form will be available shortly.   You'll
+The course evaluation and [feedback form][1] is now available.  Please let
+us know what you think of the course this year.  You'll
 find the password on page 56 of your 2016 RSCM binder.  Of course, you can also
 [email][2] us with any questions or feedback you might have.
 
@@ -39,6 +40,6 @@ so we know how many CDs to press.
 
 We look forward to seeing everyone July 10th - July 16rd, 2017!
 
-[1]: http://goo.gl/forms/yEcGPLXIoE
+[1]: https://goo.gl/k5nh53
 [2]: /contact/
 [3]: /pdf/2016/cd-flyer.pdf
