@@ -15,10 +15,11 @@ these fine young women.
 
 # Photos and Videos
 
-We will post the official course pictures on this website and on Facebook when
-we receive them.  It usually takes a few weeks for our photographer to select
-and edit them.  We do not mail out hard photos, but we will have high
-resolution images on the website.
+Photos and prints are available at the following website for this year's
+course.  Please note that we do not mail out hard copy photos, but you can
+order those from the following website as well.
+
+http://www.manring.net/photos/RSCM_7-3-16/
 
 You can watch the Closing Evensong at Duke Chapel on YouTube!
 
