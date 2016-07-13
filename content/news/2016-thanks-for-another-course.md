@@ -15,11 +15,12 @@ these fine young women.
 
 # Photos and Videos
 
-Photos and prints are available at the following website for this year's
-course.  Please note that we do not mail out hard copy photos, but you can
-order those from the following website as well.
+Below is the official course photo for 2016!  You may click on it to
+order high resolution digital copies and hard copy prints.
+Please note that we do not mail out hard copy photos, but they are available
+from this link.
 
-http://www.manring.net/photos/RSCM_7-3-16/
+{{% figure src="/images/2016/RSCM_Duke_Chapel_web-20160703.jpg" alt="2016 RSCM Carolina Course Photo" title="2016 RSCM Carolina Course Photo" link="http://www.manring.net/photos/RSCM_7-3-16/" %}}
 
 You can watch the Closing Evensong at Duke Chapel on YouTube!
 
