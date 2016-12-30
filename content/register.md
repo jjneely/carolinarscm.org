@@ -1,28 +1,23 @@
 ---
 title: "Registration Information"
-date: 2016-01-04
+date: 2016-12-29
 layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
 ---
 
-The 2016 RSCM Carolina Course will be held June 27 - July 3 and will be
-resident at Saint Mary's School in Raleigh, NC.  The 21st course will
-have Dr. Michael Velting from Christ Church Cathedral, Nashville, TN as
-music director and Colin Lynch from Trinity Church, Copley Square, Boston,
-MA as course organist.
+Join us July 10th through the 16th, 2017 for the 22nd Annual RSCM Carolina
+Course in residence at Duke University. The music director will be Scott
+Dettra, from the Church of the Incarnation, Dallas, TX. The course organist
+will be Christopher Jacobson, FRCO, Duke Chapel, Durham, NC.
 
+<!--
 Maps:
 
 * [Printable PDF][22] of St. Mary's School Campus
 * [Google Online Map][23]
-
-# At Capacity
-
-The 2016 RSCM Carolina Course for Girls and Adults is now at capacity and we
-are unable to accept new registrations.  Don't miss out on the course!  Please
-come to one of our many [public worship services][24].
+-->
 
 # Registration Forms
 
@@ -53,11 +48,10 @@ You may also use the hard copy forms which may be mailed to the [registrar][7]
 or scanned and emailed.  These forms contain the necessary signatures and
 safety information.
 
-* [2016 Girl Chorister Packet][1]
-* [2016 Adult Packet][2]
-* [2016 Staff Packet][3]
-* [2016 Reference Forms][4] (Adults and Staff, Every 3 Years)
-* [2016 Self Declaration Form][5] (Adults and Staff)
+* [2017 Girl Chorister Packet][1]
+* [2017 Adult Packet][2]
+* [2017 Self Declaration Form][5] (Adults and Staff)
+* [2017 Reference Forms][4] (Adults and Staff, Every 3 Years)
 
 Hard copies for reference:
 
@@ -84,15 +78,15 @@ payments.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2016 Registration Fees</th></tr>
+<tr><th colspan="2">2017 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
-<tr><td>Girl Participant</td><td>$610</td></tr>
+<tr><td>Girl Participant</td><td>$650</td></tr>
 <tr><td>Adult Participant</td><td>$650</td></tr>
-<tr><td>Adult Day Participant (no Hotel)</td><td>$425</td></tr>
+<tr><td>Adult Day Participant (or staying at the Washington-Duke Inn)</td><td>$425</td></tr>
 </table>
 
 <table class="table">
-<tr><th colspan="2">2016 Discounts</th></tr>
+<tr><th colspan="2">2017 Discounts</th></tr>
 <tr><td>RSCM America Membership</td><td>-$25</td></tr>
 <tr><td>Registrations Received Before April 1st</td><td>-$25</td></tr>
 <tr><td>First Time Adult Participants</td><td>-$25</td></tr>
@@ -104,8 +98,10 @@ can also send any questions you have by email or phone.
 # Music
 
 Remember that you are responsible for purchasing, obtaining, and practicing
-your music before you arrive at the course.
+your music before you arrive at the course.  Music for 2017 has not yet been
+finalized.  We'll have ordering information and repertoire soon.
 
+<!--
 The RSCM Carolina Course is pleased once again to partner with Cliff Hill Music
 in providing music packets for our course participants.  Please contact Mr.
 Hill via [e-mail][21] or phone (800-819-8772) to purchase your packet. Packets
@@ -139,9 +135,10 @@ are $21.82 each.
 * Anthem  
   C.H.H. Parry  
   *Dear Lord and Father of Mankind*
+-->
 
-[1]: /pdf/2016/Chorister_Packet_2016.pdf
-[2]: /pdf/2016/Adult_Packet_2016.pdf
+[1]: /pdf/2017/chorister_packet_2017.pdf
+[2]: /pdf/2017/Adult_Packet_2017.pdf
 [3]: /pdf/2016/Staff_Packet_2016.pdf
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
