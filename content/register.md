@@ -25,7 +25,7 @@ We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="http://goo.gl/forms/xaKrYLNNIg">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://goo.gl/forms/lbjuuwxcRpI6Jr5p2">Register Online!</a>
 </p>
 
 When registering electronically the following forms must also be completed
@@ -139,7 +139,6 @@ are $21.82 each.
 
 [1]: /pdf/2017/chorister_packet_2017.pdf
 [2]: /pdf/2017/Adult_Packet_2017.pdf
-[3]: /pdf/2016/Staff_Packet_2016.pdf
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact
@@ -147,7 +146,7 @@ are $21.82 each.
 [10]: /pdf/2016/2016ConsentRelease.pdf
 [11]: /pdf/2016/2016PhotoMediaRelease.pdf
 [12]: /pdf/2016/Signature_Page_Adults.pdf
-[13]: /pdf/2016/Signature_Page_Girls.pdf
+[13]: /pdf/2017/RSCM_Signature_Page.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
 [22]: /pdf/st-marys-campus-map.pdf
