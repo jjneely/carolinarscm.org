@@ -21,6 +21,12 @@ Maps:
 
 # Registration Forms
 
+<div class="alert alert-warning" role="alert">
+Registration for girl participants is now closed.  Please <a href="/contact">contact</a> us if
+you would like to be put on the waiting list.  We still have room for a few
+more adults!
+</div>
+
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
@@ -97,45 +103,36 @@ can also send any questions you have by email or phone.
 
 # Music
 
+<!--
 Remember that you are responsible for purchasing, obtaining, and practicing
 your music before you arrive at the course.  Music for 2017 has not yet been
 finalized.  We'll have ordering information and repertoire soon.
+-->
 
-<!--
 The RSCM Carolina Course is pleased once again to partner with Cliff Hill Music
 in providing music packets for our course participants.  Please contact Mr.
 Hill via [e-mail][21] or phone (800-819-8772) to purchase your packet. Packets
-are $21.82 each.
+are $12.80 each.
 
-## Eucharist
-
-* Mass Setting  
-  Franz Josef Haydn  
-  *Missa Brevis Sti Joannis de Deo* (Gloria, Credo, Sanctus/Benedictus (small ensemble), Agnus Dei)
-* Offertory Anthem  
-  William Mathias  
-  *Let all the people praise thee, O God*
-* Communion Motets  
-  Ola Gjeilo  
-  *Ubi caritas*  
-* Michael Sitton  
-  *That most excellent gift of charity*
-
-## Evensong
-
-* Choral Introit  
-  Gary Davison  
-  *A Prayer of Self-Dedication*
-* Andrew Walker  
-  *Phos hilaron*
-* Philip Moore  
-  *Preces and Responses (Guildford Cathedral)*
-* T. Tertius Noble  
-  *Evening Canticles in B minor*
-* Anthem  
-  C.H.H. Parry  
-  *Dear Lord and Father of Mankind*
--->
+* Introit: *Gloria tibi, Domine* (Adults)  
+  William Byrd  
+  Download: [PDF][14]
+* *Sing We Merrily*  
+  Sidney Campbell
+* *I Was Glad*  
+  Leo Sowerby
+* *The Lord Bless You and Keep You*  
+  Peter Lutkin
+* Preces and Responses  
+  Bruce Neswick
+* Phos hilaron  
+  Rober Lehman
+* Psalms: 114, 115 Tonus Peregrinus  
+  (harm. David Willcocks), Gerald Knight, Ivor Atkins
+* Magnificat and Nunc dimittis *The Wells Service*  
+  Malcolm Archer
+* *Lord, Thou Hast Been Our Refuge*  
+  Edward Bairstow
 
 [1]: /pdf/2017/chorister_packet_2017.pdf
 [2]: /pdf/2017/Adult_Packet_2017.pdf
@@ -147,6 +144,7 @@ are $21.82 each.
 [11]: /pdf/2016/2016PhotoMediaRelease.pdf
 [12]: /pdf/2016/Signature_Page_Adults.pdf
 [13]: /pdf/2017/RSCM_Signature_Page.pdf
+[14]: /pdf/2017/Byrd_Gloria_tibi_Domine.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
 [22]: /pdf/st-marys-campus-map.pdf

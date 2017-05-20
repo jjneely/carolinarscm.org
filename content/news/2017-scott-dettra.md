@@ -2,7 +2,7 @@
 title: '2017 Music Director: Scott Dettra'
 author: jjneely
 layout: post
-date: 2017-11-01
+date: 2016-11-01
 categories:
   - Uncategorized
 ---
