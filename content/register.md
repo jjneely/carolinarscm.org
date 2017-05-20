@@ -128,7 +128,8 @@ are $12.80 each.
 * Phos hilaron  
   Rober Lehman
 * Psalms: 114, 115 Tonus Peregrinus  
-  (harm. David Willcocks), Gerald Knight, Ivor Atkins
+  (harm. David Willcocks), Gerald Knight, Ivor Atkins  
+  Download: [PDF][15]
 * Magnificat and Nunc dimittis *The Wells Service*  
   Malcolm Archer
 * *Lord, Thou Hast Been Our Refuge*  
@@ -145,6 +146,7 @@ are $12.80 each.
 [12]: /pdf/2016/Signature_Page_Adults.pdf
 [13]: /pdf/2017/RSCM_Signature_Page.pdf
 [14]: /pdf/2017/Byrd_Gloria_tibi_Domine.pdf
+[15]: /pdf/2017/psalms_114_115.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
 [22]: /pdf/st-marys-campus-map.pdf

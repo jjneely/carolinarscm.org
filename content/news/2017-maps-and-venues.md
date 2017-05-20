@@ -14,13 +14,13 @@ Schedule is below.
 
 ## Services, Locations, and Times
 
-* **Sunday, July 18, 11:00 AM**  
+* **Sunday, July 16, 11:00 AM**  
   Service of Worship  
   [Duke Chapel][4]  
   401 Chapel Drive  
   Durham, NC
 
-* **Sunday, July 18, 4:00 PM**  
+* **Sunday, July 16, 4:00 PM**  
   Festival Evensong  
   [Duke Chapel][4]  
   401 Chapel Drive  
