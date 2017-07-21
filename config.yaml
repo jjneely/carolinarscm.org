@@ -8,11 +8,11 @@ copyright: "Copyright &#xA9; 2017 RSCM Carolina Course for Girls &amp; Adults"
 params:
   googlesite: carolinarscm.org
 
-  dateline: The 2017 course dates are July 10th through July 16th.
-  current: 2017
+  dateline: The 2018 course dates are July 9th through July 15th at Duke University.
+  current: 2018
 
   # Max number of new articles to show on main page
-  maxnews: 3
+  maxnews: 4
 
 menu:
   main:

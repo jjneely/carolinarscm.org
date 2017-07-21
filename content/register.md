@@ -22,9 +22,7 @@ Maps:
 # Registration Forms
 
 <div class="alert alert-warning" role="alert">
-Registration for girl participants is now closed.  Please <a href="/contact">contact</a> us if
-you would like to be put on the waiting list.  We still have room for a few
-more adults!
+Registration for all participants is now closed.
 </div>
 
 We encourage you to submit your registration forms electronically using
