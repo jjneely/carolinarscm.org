@@ -21,7 +21,7 @@ available from this link.
 
 <!-- {{% figure src="/images/2016/RSCM_Duke_Chapel_web-20160703.jpg" alt="2016 RSCM Carolina Course Photo" title="2016 RSCM Carolina Course Photo" link="http://www.manring.net/photos/RSCM_7-3-16/" %}}  -->
 
-You can watch both of the closing service at Duke Chapel on YouTube!
+You can watch both of the closing services at Duke Chapel on YouTube!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1618xE3etHk?ecver=1" frameborder="0" allowfullscreen></iframe>
 

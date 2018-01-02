@@ -1,16 +1,17 @@
 ---
 title: "Registration Information"
-date: 2016-12-29
+date: 2017-08-17
 layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
 ---
 
-Join us July 10th through the 16th, 2017 for the 22nd Annual RSCM Carolina
-Course in residence at Duke University. The music director will be Scott
-Dettra, from the Church of the Incarnation, Dallas, TX. The course organist
-will be Christopher Jacobson, FRCO, Duke Chapel, Durham, NC.
+The 23rd annual Royal School of Church Music Carolina Course for girls and
+adults will be held July 9-15, 2018 on the campus of Duke University.  The
+course Music Director will be Martin Baker, Master of Music, Westminster
+Cathedral, London, UK.  Returning again as the Course Organist is Christopher
+Jacobson, FRCO, Chapel Organist, Duke University.
 
 <!--
 Maps:
@@ -19,12 +20,18 @@ Maps:
 * [Google Online Map][23]
 -->
 
+# Course Staff
+
+{{% courseleadership %}}
+
 # Registration Forms
 
 <div class="alert alert-warning" role="alert">
-Registration for all participants is now closed.
+Registration for the 2018 RSCM Carolina Course is not yet open.  Please
+check back soon.
 </div>
 
+<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
@@ -62,6 +69,7 @@ Hard copies for reference:
 * [Behavior Policy][9]
 * [Photo and Media Release][11]
 * [Consent Release][10]
+-->
 
 If you have any questions please feel free to [contact us!][7]
 
@@ -82,56 +90,28 @@ payments.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2017 Registration Fees</th></tr>
+<tr><th colspan="2">2018 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
-<tr><td>Girl Participant</td><td>$650</td></tr>
-<tr><td>Adult Participant</td><td>$650</td></tr>
-<tr><td>Adult Day Participant (or staying at the Washington-Duke Inn)</td><td>$425</td></tr>
+<tr><td>Girl Participant</td><td>$675 / $700 after April 1</td></tr>
+<tr><td>Adult Participant</td><td>$675 / $700 after April 1</td></tr>
+<tr><td>Adult Day Participant (or staying at the Washington-Duke Inn)</td><td>$450</td></tr>
 </table>
 
 <table class="table">
 <tr><th colspan="2">2017 Discounts</th></tr>
-<tr><td>RSCM America Membership</td><td>-$25</td></tr>
-<tr><td>Registrations Received Before April 1st</td><td>-$25</td></tr>
-<tr><td>First Time Adult Participants</td><td>-$25</td></tr>
+<tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
 You may also pay by mailing a check to the course [registrar][7].  You
 can also send any questions you have by email or phone.
 
+<!--
 # Music
 
-<!--
 Remember that you are responsible for purchasing, obtaining, and practicing
 your music before you arrive at the course.  Music for 2017 has not yet been
 finalized.  We'll have ordering information and repertoire soon.
 -->
-
-The RSCM Carolina Course is pleased once again to partner with Cliff Hill Music
-in providing music packets for our course participants.  Please contact Mr.
-Hill via [e-mail][21] or phone (800-819-8772) to purchase your packet. Packets
-are $12.80 each.
-
-* Introit: *Gloria tibi, Domine* (Adults)  
-  William Byrd  
-  Download: [PDF][14]
-* *Sing We Merrily*  
-  Sidney Campbell
-* *I Was Glad*  
-  Leo Sowerby
-* *The Lord Bless You and Keep You*  
-  Peter Lutkin
-* Preces and Responses  
-  Bruce Neswick
-* Phos hilaron  
-  Rober Lehman
-* Psalms: 114, 115 Tonus Peregrinus  
-  (harm. David Willcocks), Gerald Knight, Ivor Atkins  
-  Download: [PDF][15]
-* Magnificat and Nunc dimittis *The Wells Service*  
-  Malcolm Archer
-* *Lord, Thou Hast Been Our Refuge*  
-  Edward Bairstow
 
 [1]: /pdf/2017/chorister_packet_2017.pdf
 [2]: /pdf/2017/Adult_Packet_2017.pdf

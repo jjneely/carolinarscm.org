@@ -33,9 +33,9 @@ menu:
 #    - name: Maps
 #      weight: 140
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
-#    - name: Course Feedback Survey
-#      weight: 150
-#      url: https://goo.gl/k5nh53
+    - name: Course Feedback Survey
+      weight: 150
+      url: https://docs.google.com/forms/d/e/1FAIpQLSc2l4yS84l027BCPGkMK_aH0Jo0IqvyRcMHdtBOHOwT2su4VQ/viewform
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists
