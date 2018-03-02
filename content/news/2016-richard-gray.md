@@ -3,6 +3,7 @@ date: 2016-03-28
 title: 2016 Carolina Course Assistant Organist and Conducting Scholar
 author: jjneely
 layout: post
+draft: true
 categories:
   - Uncategorized
 ---
