@@ -1,6 +1,6 @@
 ---
 title: "Registration Information"
-date: 2017-08-17
+date: 2018-01-01
 layout: current
 aliases:
   - /course-information/registration-and-forms/
@@ -26,17 +26,18 @@ Maps:
 
 # Registration Forms
 
+<!--
 <div class="alert alert-warning" role="alert">
 Registration for the 2018 RSCM Carolina Course is not yet open.  Please
 check back soon.
 </div>
+-->
 
-<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://goo.gl/forms/lbjuuwxcRpI6Jr5p2">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/174f1r3eDwavIucN1XiW88N4R3tHcCfOU6tg5l-1o9bY">Register Online!</a>
 </p>
 
 When registering electronically the following forms must also be completed
@@ -59,17 +60,16 @@ You may also use the hard copy forms which may be mailed to the [registrar][7]
 or scanned and emailed.  These forms contain the necessary signatures and
 safety information.
 
-* [2017 Girl Chorister Packet][1]
-* [2017 Adult Packet][2]
-* [2017 Self Declaration Form][5] (Adults and Staff)
-* [2017 Reference Forms][4] (Adults and Staff, Every 3 Years)
+* [2018 Girl Chorister Packet][1]
+* [2018 Adult Packet][2]
+* [2018 Self Declaration Form][5] (Adults and Staff)
+* [2018 Reference Forms][4] (Adults and Staff, Every 3 Years)
 
 Hard copies for reference:
 
 * [Behavior Policy][9]
 * [Photo and Media Release][11]
 * [Consent Release][10]
--->
 
 If you have any questions please feel free to [contact us!][7]
 
@@ -92,13 +92,13 @@ payments.
 <table class="table">
 <tr><th colspan="2">2018 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
-<tr><td>Girl Participant</td><td>$675 / $700 after April 1</td></tr>
-<tr><td>Adult Participant</td><td>$675 / $700 after April 1</td></tr>
-<tr><td>Adult Day Participant (or staying at the Washington-Duke Inn)</td><td>$450</td></tr>
+<tr><td>Girl Participant</td><td>$650 / $675 after April 1</td></tr>
+<tr><td>Adult Participant</td><td>$650 / $675 after April 1</td></tr>
+<tr><td>Adult Day Participant</td><td>$450 / $475 after April 1</td></tr>
 </table>
 
 <table class="table">
-<tr><th colspan="2">2017 Discounts</th></tr>
+<tr><th colspan="2">2018 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
@@ -109,12 +109,12 @@ can also send any questions you have by email or phone.
 # Music
 
 Remember that you are responsible for purchasing, obtaining, and practicing
-your music before you arrive at the course.  Music for 2017 has not yet been
+your music before you arrive at the course.  Music for 2018 has not yet been
 finalized.  We'll have ordering information and repertoire soon.
 -->
 
-[1]: /pdf/2017/chorister_packet_2017.pdf
-[2]: /pdf/2017/Adult_Packet_2017.pdf
+[1]: /pdf/2018/chorister-packet-2018.pdf
+[2]: /pdf/2018/adult-packet-2018.pdf
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact
