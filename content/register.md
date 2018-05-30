@@ -26,12 +26,10 @@ Maps:
 
 # Registration Forms
 
-<!--
 <div class="alert alert-warning" role="alert">
-Registration for the 2018 RSCM Carolina Course is not yet open.  Please
-check back soon.
+The 2018 RSCM Carolina Course is now at capacity for all participants.
+Please email us to ask about our wait list.
 </div>
--->
 
 We encourage you to submit your registration forms electronically using
 Google Forms.
@@ -105,13 +103,14 @@ payments.
 You may also pay by mailing a check to the course [registrar][7].  You
 can also send any questions you have by email or phone.
 
-<!--
 # Music
 
+{{% figure src="/images/2018-music-poster.jpg" %}}
+
 Remember that you are responsible for purchasing, obtaining, and practicing
-your music before you arrive at the course.  Music for 2018 has not yet been
-finalized.  We'll have ordering information and repertoire soon.
--->
+your music before you arrive at the course.  Music for 2018 is available as
+a packet from Cliff Hill music and can be ordered directly from them.
+
 
 [1]: /pdf/2018/chorister-packet-2018.pdf
 [2]: /pdf/2018/adult-packet-2018.pdf
