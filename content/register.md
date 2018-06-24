@@ -31,12 +31,14 @@ The 2018 RSCM Carolina Course is now at capacity for all participants.
 Please email us to ask about our wait list.
 </div>
 
+<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/174f1r3eDwavIucN1XiW88N4R3tHcCfOU6tg5l-1o9bY">Register Online!</a>
 </p>
+-->
 
 When registering electronically the following forms must also be completed
 and either mailed or sent via scan / photo to the [registrar][7].  When
