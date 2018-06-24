@@ -11,9 +11,9 @@ server:
 production:
 	rm -rf public/
 	$(HUGO)
-	s3cmd --acl-public --delete-removed --no-progress sync public/* s3://carolinarscm.org
+	gsutil -m rsync -d -r -c public/ gs://carolinarscm.org/
 
 test:
 	rm -rf public/
 	$(HUGO) -b https://test.carolinarscm.org
-	s3cmd --acl-public --delete-removed --no-progress sync public/* s3://test.carolinarscm.org
+	gsutil -m rsync -d -r -c public/ gs://test.carolinarscm.org/
