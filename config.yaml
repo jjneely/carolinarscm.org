@@ -8,11 +8,11 @@ copyright: "Copyright &#xA9; 2018 RSCM Carolina Course for Girls &amp; Adults"
 params:
   googlesite: carolinarscm.org
 
-  dateline: The 2018 course dates are July 9th through July 15th at Duke University.
-  current: 2018
+  dateline: The 2019 course dates are July 8th through July 14th at Duke University.
+  current: 2019
 
   # Max number of new articles to show on main page
-  maxnews: 4
+  maxnews: 3
 
 menu:
   main:
@@ -23,9 +23,9 @@ menu:
       url: /contact
     - name: Past Courses
       weight: 100
-    - name: Register
-      weight: 1
-      url: /register
+#    - name: Register
+#      weight: 1
+#      url: /register
     - name: Directors and Organists
       parent: Past Courses
       weight: -50
@@ -35,7 +35,7 @@ menu:
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
     - name: Course Feedback Survey
       weight: 150
-      url: https://docs.google.com/forms/d/e/1FAIpQLSc2l4yS84l027BCPGkMK_aH0Jo0IqvyRcMHdtBOHOwT2su4VQ/viewform
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeX7NZRiti4uWNeO1HDfijJOjPqmJqhsqFwSQJSA8hNlu-k1g/viewform
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists
