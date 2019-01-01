@@ -7,11 +7,11 @@ aliases:
   - /course-information/repertoire/
 ---
 
-The 23rd annual Royal School of Church Music Carolina Course for girls and
-adults will be held July 9-15, 2018 on the campus of Duke University.  The
-course Music Director will be Martin Baker, Master of Music, Westminster
-Cathedral, London, UK.  Returning again as the Course Organist is Christopher
-Jacobson, FRCO, Chapel Organist, Duke University.
+The 24th annual Royal School of Church Music Carolina Course for girls and
+adults will be held July 8-14, 2019 on the campus of Duke University.  The
+course Music Director will be Dr. Jared Johnson, Canon Organist and Choirmaster
+of Columbia's Trinity Episcopal Cathedral.  The Course welcomes Dr. Fred Teardo
+from the Cathedral of the Advent in Birmingham, AL as our organist.
 
 <!--
 Maps:
@@ -26,19 +26,19 @@ Maps:
 
 # Registration Forms
 
+<!--
 <div class="alert alert-warning" role="alert">
 The 2018 RSCM Carolina Course is now at capacity for all participants.
 Please email us to ask about our wait list.
 </div>
+-->
 
-<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/174f1r3eDwavIucN1XiW88N4R3tHcCfOU6tg5l-1o9bY">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/1nhtzrPEbuR0GdUdxgR74m8Yl6oqpvn2gpmaV_8T1afI">Register Online!</a>
 </p>
--->
 
 When registering electronically the following forms must also be completed
 and either mailed or sent via scan / photo to the [registrar][7].  When
@@ -60,16 +60,11 @@ You may also use the hard copy forms which may be mailed to the [registrar][7]
 or scanned and emailed.  These forms contain the necessary signatures and
 safety information.
 
-* [2018 Girl Chorister Packet][1]
-* [2018 Adult Packet][2]
-* [2018 Self Declaration Form][5] (Adults and Staff)
-* [2018 Reference Forms][4] (Adults and Staff, Every 3 Years)
-
-Hard copies for reference:
-
-* [Behavior Policy][9]
-* [Photo and Media Release][11]
-* [Consent Release][10]
+* [2019 Girl Chorister Packet][1]
+* [2019 Adult Packet][2]
+* [2019 Staff Packet][3]
+* [2019 Self Declaration Form][5] (Adults and Staff)
+* [2019 Reference Forms][4] (Adults and Staff, Every 3 Years)
 
 If you have any questions please feel free to [contact us!][7]
 
@@ -90,7 +85,7 @@ payments.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2018 Registration Fees</th></tr>
+<tr><th colspan="2">2019 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
 <tr><td>Girl Participant</td><td>$650 / $675 after April 1</td></tr>
 <tr><td>Adult Participant</td><td>$650 / $675 after April 1</td></tr>
@@ -98,7 +93,7 @@ payments.
 </table>
 
 <table class="table">
-<tr><th colspan="2">2018 Discounts</th></tr>
+<tr><th colspan="2">2019 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
@@ -107,15 +102,19 @@ can also send any questions you have by email or phone.
 
 # Music
 
-{{% figure src="/images/2018-music-poster.jpg" %}}
+<!-- {{% figure src="/images/2018-music-poster.jpg" %}} -->
 
+Music for 2019 has not yet been announced.
+
+<!--
 Remember that you are responsible for purchasing, obtaining, and practicing
 your music before you arrive at the course.  Music for 2018 is available as
 a packet from Cliff Hill music and can be ordered directly from them.
+-->
 
-
-[1]: /pdf/2018/chorister-packet-2018.pdf
-[2]: /pdf/2018/adult-packet-2018.pdf
+[1]: /pdf/2019/chorister-packet-2019.pdf
+[2]: /pdf/2019/adult-packet-2019.pdf
+[3]: /pdf/2019/staff-packet-2019.pdf
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact
