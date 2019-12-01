@@ -1,17 +1,18 @@
 ---
 title: "Registration Information"
-date: 2018-01-01
+date: 2019-12-01
 layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
 ---
 
-The 24th annual Royal School of Church Music Carolina Course for girls and
-adults will be held July 8-14, 2019 on the campus of Duke University.  The
-course Music Director will be Dr. Jared Johnson, Canon Organist and Choirmaster
-of Columbia's Trinity Episcopal Cathedral.  The Course welcomes Dr. Fred Teardo
-from the Cathedral of the Advent in Birmingham, AL as our organist.
+The 25th annual Royal School of Church Music Carolina Course for girls and
+adults will be held July 13-19, 2020 on the campus of Duke University.  The
+course Music Director will be Mr. Daniel Cook, Master of the Choristers &
+Organist of Durham Cathedral, Durham, UK.  The Course welcomes Mr. Stephen
+Gourley, Director of Music at The Village Chapel, Pinehurst, NC, as our
+organist.
 
 <!--
 Maps:
@@ -28,11 +29,13 @@ Maps:
 
 <!--
 <div class="alert alert-warning" role="alert">
-The 2018 RSCM Carolina Course is now at capacity for all participants.
-Please email us to ask about our wait list.
+The 2019 RSCM Carolina Course is now <b>at capacity</b> for all participants.
+Please email us to ask about the wait list.  Or, visit the
+<a href="https://www.stje.org/rscm">Charlotte Training Course</a> website for availability at our sister course!
 </div>
 -->
 
+<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
@@ -51,20 +54,21 @@ kept on file by the RSCM America.
 * [Reference Forms][4] (Adults and Staff Only, Every 3 Years)
 
 Staff members are also required to register and submit the above forms.
+-->
 
 A $100 deposit is required with completed registration forms to reserve
 your place in this year's RSCM Carolina Course.  Please see payment information
 below.
 
-You may also use the hard copy forms which may be mailed to the [registrar][7]
+You may use paper forms which may be mailed to the [registrar][7]
 or scanned and emailed.  These forms contain the necessary signatures and
 safety information.
 
-* [2019 Girl Chorister Packet][1]
-* [2019 Adult Packet][2]
-* [2019 Staff Packet][3]
-* [2019 Self Declaration Form][5] (Adults and Staff)
-* [2019 Reference Forms][4] (Adults and Staff, Every 3 Years)
+* [2020 Girl Chorister Packet][1]
+* [2020 Adult Packet][2]
+* [2020 Staff Packet][3]
+* [2020 Self Declaration Form][5] (Adults and Staff, Every Year)
+* [2020 Reference Forms][4] (Adults and Staff, Every 3 Years)
 
 If you have any questions please feel free to [contact us!][7]
 
@@ -76,16 +80,16 @@ Discover, PayPal, or your Checking account for your course registration fees.
 
 A $100 deposit and completed registration forms are required to reserve
 your spot.  Registration fees do not include music.  Click the below
-PayPal button to make a payment.  Paypal will ask you for the specific
+PayPal button to make a payment.  PayPal will ask you for the specific
 amount you wish to pay.  You may also use this page to make any additional
-payments.
+payments or donations.
 
 <p class="text-center">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BLB7ZJ45CR8E"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" /></a>
 </p>
 
 <table class="table">
-<tr><th colspan="2">2019 Registration Fees</th></tr>
+<tr><th colspan="2">2020 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
 <tr><td>Girl Participant</td><td>$650 / $675 after April 1</td></tr>
 <tr><td>Adult Participant</td><td>$650 / $675 after April 1</td></tr>
@@ -93,7 +97,7 @@ payments.
 </table>
 
 <table class="table">
-<tr><th colspan="2">2019 Discounts</th></tr>
+<tr><th colspan="2">2020 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
@@ -104,17 +108,26 @@ can also send any questions you have by email or phone.
 
 <!-- {{% figure src="/images/2018-music-poster.jpg" %}} -->
 
-Music for 2019 has not yet been announced.
+Music for the 2020 Course has not yet been announced.  Stay tuned for updates!
 
 <!--
-Remember that you are responsible for purchasing, obtaining, and practicing
-your music before you arrive at the course.  Music for 2018 is available as
-a packet from Cliff Hill music and can be ordered directly from them.
+Music for 2019 is listed below.  It is available from Cliff Hill Music by
+emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
+or calling 800-819-8772.  Remember that you are responsible for purchasing,
+obtaining, and practicing your music before you arrive at the course.
+
+* *I will Set His Dominion to the Sea* – Bruce Neswick
+* *Ave Maria* & *Ave Maria Stella* – Cecilia McDowall
+* *God Be In My Head* – Philip Wilby
+* *Preces & Responses* – Gerre Hancock
+* *O Gracious Light* – David Hogan
+* *Magnificat and Nunc dimittis 'Mt St Alban Service'* – David Hogan
+* *Te Deum 'Collegium Regale'* – Herbert Howells
 -->
 
-[1]: /pdf/2019/chorister-packet-2019.pdf
-[2]: /pdf/2019/adult-packet-2019.pdf
-[3]: /pdf/2019/staff-packet-2019.pdf
+[1]: /pdf/2020/chorister-packet-2020.pdf
+[2]: /pdf/2020/adult-packet-2020.pdf
+[3]: /pdf/2020/staff-packet-2020.pdf
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact

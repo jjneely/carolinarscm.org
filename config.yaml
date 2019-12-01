@@ -3,16 +3,16 @@ languageCode: "en-us"
 title: "RSCM Carolina Course for Girls & Adults"
 description: Psallam spiritu et mente
 MetaDataFormat: "yaml"
-copyright: "Copyright &#xA9; 2018 RSCM Carolina Course for Girls &amp; Adults"
+copyright: "Copyright &#xA9; 2019 RSCM Carolina Course for Girls &amp; Adults"
 
 params:
   googlesite: carolinarscm.org
 
-  dateline: The 2019 course dates are July 8th through July 14th at Duke University.
-  current: 2019
+  dateline: Course Dates are July 13 - 19, 2020
+  current: 2020
 
   # Max number of new articles to show on main page
-  maxnews: 2
+  maxnews: 3
 
 menu:
   main:
@@ -35,7 +35,7 @@ menu:
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
 #    - name: Course Feedback Survey
 #      weight: 150
-#      url: https://docs.google.com/forms/d/e/1FAIpQLSeX7NZRiti4uWNeO1HDfijJOjPqmJqhsqFwSQJSA8hNlu-k1g/viewform
+#      url: https://docs.google.com/forms/d/e/1FAIpQLSdYrjlZflw3DwILMsE5GejcvKjrTRP4Su7sQ6di7n_C70zGlw/viewform
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists

@@ -22,10 +22,9 @@ Girls will also have opportunities to increase reading and singing ability throu
   * daily ear training sessions and
   * daily small group voice coachings.
 
-The course is housed on the campus of [Saint Mary’s School][1], an exceptional
-girls’ school located in Raleigh, North Carolina, which combines historic charm
-with modern conveniences, such as air-conditioned dormitories and an indoor
-swimming pool.
+The course is housed on the campus of [Duke University][1], with access to
+many of Duke's amenities.  From indoor swimming, and spacious, air conditioned
+dormitories to the majesty of Duke University Chapel and the 3 organs within.
 
 For more information:
 
@@ -33,7 +32,7 @@ For more information:
   * [Life at the Carolina RSCM Course][3]
   * [More about the Royal School of Church Music][4]
 
- [1]: http://www.sms.edu/ "Saint Mary's School Website"
- [2]: /course-information
+ [1]: https://duke.edu
+ [2]: /register
  [3]: /about/life
  [4]: /about/about-the-rscm
