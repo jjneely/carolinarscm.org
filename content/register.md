@@ -106,24 +106,20 @@ can also send any questions you have by email or phone.
 
 # Music
 
-<!-- {{% figure src="/images/2018-music-poster.jpg" %}} -->
-
-Music for the 2020 Course has not yet been announced.  Stay tuned for updates!
-
-<!--
-Music for 2019 is listed below.  It is available from Cliff Hill Music by
+Music for 2020 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
 obtaining, and practicing your music before you arrive at the course.
 
-* *I will Set His Dominion to the Sea* – Bruce Neswick
-* *Ave Maria* & *Ave Maria Stella* – Cecilia McDowall
-* *God Be In My Head* – Philip Wilby
-* *Preces & Responses* – Gerre Hancock
-* *O Gracious Light* – David Hogan
-* *Magnificat and Nunc dimittis 'Mt St Alban Service'* – David Hogan
-* *Te Deum 'Collegium Regale'* – Herbert Howells
--->
+* *Laudate Dominum* & *O Salutaris* (from *Quatre Motets*) - Marcel Dupré
+* *Be Still, My Soul* - Percy Whitlock
+* *View Me, Lord* - Richard Lloyd
+* *O hearken thou* - Roxanna Panufnik
+* *Preces and Responses* - Richard Shephard
+* *Evening Service in D* - Edward Bairstow
+* *For Lo, I Raise Up* - Charles Villiers Standford
+
+{{% figure src="/images/2020-repertoire.png" %}}
 
 [1]: /pdf/2020/chorister-packet-2020.pdf
 [2]: /pdf/2020/adult-packet-2020.pdf
@@ -131,15 +127,7 @@ obtaining, and practicing your music before you arrive at the course.
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact
-[9]: /pdf/2016/2016BehaviorPolicy.pdf
-[10]: /pdf/2016/2016ConsentRelease.pdf
-[11]: /pdf/2016/2016PhotoMediaRelease.pdf
-[12]: /pdf/2016/Signature_Page_Adults.pdf
-[13]: /pdf/2017/RSCM_Signature_Page.pdf
-[14]: /pdf/2017/Byrd_Gloria_tibi_Domine.pdf
-[15]: /pdf/2017/psalms_114_115.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
 [22]: /pdf/st-marys-campus-map.pdf
 [23]: https://www.google.com/maps/place/Saint+Mary's+School/@35.7828446,-78.6551186,17z/data=!3m1!4b1!4m2!3m1!1s0x89ac5f630bc17a43:0xf4e7b6d05fd3b619
-[24]: /news/2016-maps-and-venues/
