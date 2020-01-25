@@ -35,12 +35,11 @@ Please email us to ask about the wait list.  Or, visit the
 </div>
 -->
 
-<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/1nhtzrPEbuR0GdUdxgR74m8Yl6oqpvn2gpmaV_8T1afI">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSe_joV3dEdTnLXUg_lXCoNf-V12Ng-YOHewoWi03E62iC85LQ/viewform">Register Online!</a>
 </p>
 
 When registering electronically the following forms must also be completed
@@ -48,13 +47,12 @@ and either mailed or sent via scan / photo to the [registrar][7].  When
 completed these forms contain signatures and safety information that is
 kept on file by the RSCM America.
 
-* [Girl Participant Signature Page][13]
+* [Chorister Participant Signature Page][13]
 * [Adult/Staff Participant Signature Page][12]
 * [Self Declaration Form][5] (Adults and Staff Only)
 * [Reference Forms][4] (Adults and Staff Only, Every 3 Years)
 
 Staff members are also required to register and submit the above forms.
--->
 
 A $100 deposit is required with completed registration forms to reserve
 your place in this year's RSCM Carolina Course.  Please see payment information
@@ -127,6 +125,8 @@ obtaining, and practicing your music before you arrive at the course.
 [4]: /pdf/2016/Reference_Form.pdf
 [5]: /pdf/2016/Self_Declaration_Form.pdf
 [7]: /contact
+[12]: /pdf/2020/adult-signature-page.pdf
+[13]: /pdf/2020/chorister-signature-page.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
 [22]: /pdf/st-marys-campus-map.pdf
