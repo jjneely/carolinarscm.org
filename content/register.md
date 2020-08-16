@@ -1,20 +1,14 @@
 ---
 title: "Registration Information"
-date: 2019-12-01
+date: 2020-08-22
 layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
 ---
 
-<div class="alert alert-warning" role="alert">
-The 2020 RSCM Carolina Course has been cancelled due to concerns amid
-COVID-19.  Please see <a href="/news/2020-canceled/">our letter</a> for
-additional details.
-</div>
-
 The 25th annual Royal School of Church Music Carolina Course for girls and
-adults will be held July 13-19, 2020 on the campus of Duke University.  The
+adults will be held July 12-18, 2021 on the campus of Duke University.  The
 course Music Director will be Mr. Daniel Cook, Master of the Choristers &
 Organist of Durham Cathedral, Durham, UK.  The Course welcomes Mr. Stephen
 Gourley, Director of Music at The Village Chapel, Pinehurst, NC, as our
@@ -33,7 +27,7 @@ Maps:
 
 # Registration Forms
 
-Registration is closed.
+Registration is not yet open, please stay tuned!
 
 <!--
 <div class="alert alert-warning" role="alert">
@@ -96,7 +90,7 @@ payments or donations.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2020 Registration Fees</th></tr>
+<tr><th colspan="2">2021 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
 <tr><td>Girl Participant</td><td>$650 / $675 after April 1</td></tr>
 <tr><td>Adult Participant</td><td>$650 / $675 after April 1</td></tr>
@@ -104,7 +98,7 @@ payments or donations.
 </table>
 
 <table class="table">
-<tr><th colspan="2">2020 Discounts</th></tr>
+<tr><th colspan="2">2021 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
@@ -113,7 +107,7 @@ can also send any questions you have by email or phone.
 
 # Music
 
-Music for 2020 is listed below.  It is available from Cliff Hill Music by
+Music for 2021 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
 obtaining, and practicing your music before you arrive at the course.

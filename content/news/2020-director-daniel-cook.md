@@ -1,13 +1,13 @@
 ---
-title: '2020 Course Director: Daniel Cook'
+title: '2021 Course Director: Daniel Cook'
 author: jjneely
 layout: post
-date: 2019-12-01
+date: 2020-08-14
 categories:
   - Uncategorized
 ---
 The RSCM Carolina Course is pleased to welcome Mr. Daniel Cook as the
-Music Director for the 2020 course!
+Music Director for the 2021 course!
 
 {{% figure src="/images/people/daniel-cook.jpg" alt="Daniel Cook" %}}
 

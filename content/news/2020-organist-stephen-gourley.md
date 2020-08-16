@@ -1,13 +1,13 @@
 ---
-title: '2020 Course Organist: Stephen Gourley'
+title: '2021 Course Organist: Stephen Gourley'
 author: jjneely
 layout: post
-date: 2019-12-01
+date: 2020-08-13
 categories:
   - Uncategorized
 ---
 The RSCM Carolina Course is pleased to welcome Mr. Stephen Gourley as the
-Course Organist for the 2020 course!
+Course Organist for the 2021 course!
 
 {{% figure src="/images/people/stephen-gourley.jpg" alt="Stephen Gourley" %}}
 
