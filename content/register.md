@@ -7,6 +7,12 @@ aliases:
   - /course-information/repertoire/
 ---
 
+<div class="alert alert-warning" role="alert">
+The 2020 RSCM Carolina Course has been cancelled due to concerns amid
+COVID-19.  Please see <a href="/news/2020-canceled/">our letter</a> for
+additional details.
+</div>
+
 The 25th annual Royal School of Church Music Carolina Course for girls and
 adults will be held July 13-19, 2020 on the campus of Duke University.  The
 course Music Director will be Mr. Daniel Cook, Master of the Choristers &
@@ -27,6 +33,8 @@ Maps:
 
 # Registration Forms
 
+Registration is closed.
+
 <!--
 <div class="alert alert-warning" role="alert">
 The 2019 RSCM Carolina Course is now <b>at capacity</b> for all participants.
@@ -34,7 +42,7 @@ Please email us to ask about the wait list.  Or, visit the
 <a href="https://www.stje.org/rscm">Charlotte Training Course</a> website for availability at our sister course!
 </div>
 -->
-
+<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
@@ -69,6 +77,7 @@ safety information.
 * [2020 Reference Forms][4] (Adults and Staff, Every 3 Years)
 
 If you have any questions please feel free to [contact us!][7]
+-->
 
 # Make a Payment
 
