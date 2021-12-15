@@ -1,6 +1,6 @@
 ---
 title: "Registration Information"
-date: 2020-08-22
+date: 2021-12-13
 layout: current
 aliases:
   - /course-information/registration-and-forms/
@@ -8,9 +8,9 @@ aliases:
 ---
 
 The 25th annual Royal School of Church Music Carolina Course for girls and
-adults will be held July 12-18, 2021 on the campus of Duke University.  The
-course Music Director will be Mr. Daniel Cook, Master of the Choristers &
-Organist of Durham Cathedral, Durham, UK.  The Course welcomes Mr. Stephen
+adults will be held July 11 - 17, 2022 on the campus of Duke University.  The
+course Music Director will be Dr. Robert Poovey, Director of Music at St.
+Paul's Episcopal Church, Rochester, NY  The Course welcomes Mr. Stephen
 Gourley, Director of Music at The Village Chapel, Pinehurst, NC, as our
 organist.
 
@@ -27,7 +27,7 @@ Maps:
 
 # Registration Forms
 
-Registration is not yet open, please stay tuned!
+Online registration is not yet open, please [contact][7] us for details!
 
 <!--
 <div class="alert alert-warning" role="alert">
@@ -90,37 +90,31 @@ payments or donations.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2021 Registration Fees</th></tr>
+<tr><th colspan="2">2022 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
-<tr><td>Girl Participant</td><td>$650 / $675 after April 1</td></tr>
-<tr><td>Adult Participant</td><td>$650 / $675 after April 1</td></tr>
-<tr><td>Adult Day Participant</td><td>$450 / $475 after April 1</td></tr>
+<tr><td>Girl Participant</td><td>$675 / $700 after April 1</td></tr>
+<tr><td>Adult Participant</td><td>$675 / $700 after April 1</td></tr>
+<tr><td>Adult Day Participant</td><td>$450</td></tr>
 </table>
 
 <table class="table">
-<tr><th colspan="2">2021 Discounts</th></tr>
+<tr><th colspan="2">2022 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
 You may also pay by mailing a check to the course [registrar][7].  You
 can also send any questions you have by email or phone.
 
+<!---
 # Music
 
-Music for 2021 is listed below.  It is available from Cliff Hill Music by
+Music for 2022 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
 obtaining, and practicing your music before you arrive at the course.
 
-* *Laudate Dominum* & *O Salutaris* (from *Quatre Motets*) - Marcel Dupré
-* *Be Still, My Soul* - Percy Whitlock
-* *View Me, Lord* - Richard Lloyd
-* *O hearken thou* - Roxanna Panufnik
-* *Preces and Responses* - Richard Shephard
-* *Evening Service in D* - Edward Bairstow
-* *For Lo, I Raise Up* - Charles Villiers Standford
-
-{{% figure src="/images/2020-repertoire.png" %}}
+* TBD
+-->
 
 [1]: /pdf/2020/chorister-packet-2020.pdf
 [2]: /pdf/2020/adult-packet-2020.pdf

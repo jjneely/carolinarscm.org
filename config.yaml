@@ -3,16 +3,16 @@ languageCode: "en-us"
 title: "RSCM Carolina Course for Girls & Adults"
 description: Psallam spiritu et mente
 MetaDataFormat: "yaml"
-copyright: "Copyright &#xA9; 2020 RSCM Carolina Course for Girls &amp; Adults"
+copyright: "Copyright &#xA9; 2021 RSCM Carolina Course for Girls &amp; Adults"
 
 params:
   googlesite: carolinarscm.org
 
-  dateline: 2021 Course dates are July 12th - 18th at Duke University.
-  current: 2021
+  dateline: 2022 Course dates are July 11 - 17, 2022
+  current: 2022
 
   # Max number of new articles to show on main page
-  maxnews: 4
+  maxnews: 6
 
 menu:
   main:
@@ -42,8 +42,6 @@ menu:
       url: http://www.agohq.org/chapters/centralnc/
     - name: John-Paul Buzard Pipe Organ Builders
       url: http://buzardorgans.com/
-    - name: Katie Dickson Photography
-      url: http://www.katiedickson.com/
     - name: Charlotte Training Course for Boys, Girls, Teens, and Adults
       url: http://www.saintjohns-charlotte.org/rscm/
     - name: RSCM America
