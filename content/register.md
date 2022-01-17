@@ -10,7 +10,7 @@ aliases:
 The 25th annual Royal School of Church Music Carolina Course for girls and
 adults will be held July 11 - 17, 2022 on the campus of Duke University.  The
 course Music Director will be Dr. Robert Poovey, Director of Music at St.
-Paul's Episcopal Church, Rochester, NY  The Course welcomes Mr. Stephen
+Paul's Episcopal Church, Rochester, NY.  The Course welcomes Mr. Stephen
 Gourley, Director of Music at The Village Chapel, Pinehurst, NC, as our
 organist.
 
@@ -27,7 +27,9 @@ Maps:
 
 # Registration Forms
 
-Online registration is not yet open, please [contact][7] us for details!
+Registration is now open!  You may [contact][7] us with any questions you may
+have.  Please remember that all participants and course staff must have all
+forms on file.
 
 <!--
 <div class="alert alert-warning" role="alert">
@@ -36,12 +38,12 @@ Please email us to ask about the wait list.  Or, visit the
 <a href="https://www.stje.org/rscm">Charlotte Training Course</a> website for availability at our sister course!
 </div>
 -->
-<!--
+
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSe_joV3dEdTnLXUg_lXCoNf-V12Ng-YOHewoWi03E62iC85LQ/viewform">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdqwWBR6nDtr3SR4TZ1kTxalI01QfN34_XQaBrMXrC6c_9QoQ/viewform">Register Online!</a>
 </p>
 
 When registering electronically the following forms must also be completed
@@ -60,18 +62,17 @@ A $100 deposit is required with completed registration forms to reserve
 your place in this year's RSCM Carolina Course.  Please see payment information
 below.
 
-You may use paper forms which may be mailed to the [registrar][7]
-or scanned and emailed.  These forms contain the necessary signatures and
-safety information.
+Paper forms which may be mailed to the [registrar][7] or scanned and emailed.
+These forms contain the all the necessary signatures and safety information.
+Use these forms when not registering online.
 
-* [2020 Girl Chorister Packet][1]
-* [2020 Adult Packet][2]
-* [2020 Staff Packet][3]
-* [2020 Self Declaration Form][5] (Adults and Staff, Every Year)
-* [2020 Reference Forms][4] (Adults and Staff, Every 3 Years)
+* [2022 Chorister Packet][1]: For minor aged participants.
+* [2022 Adult Packet][2]: For participants and staff aged 18 and above.
+* [Adult Code of Conduct][6]: For participants and staff aged 18 and above.
+* [Self Declaration Form][5]: All adults and staff must complete each year.
+* [Reference Forms][4] All adults and staff must complete once every 3 years.
 
 If you have any questions please feel free to [contact us!][7]
--->
 
 # Make a Payment
 
@@ -116,11 +117,11 @@ obtaining, and practicing your music before you arrive at the course.
 * TBD
 -->
 
-[1]: /pdf/2020/chorister-packet-2020.pdf
-[2]: /pdf/2020/adult-packet-2020.pdf
-[3]: /pdf/2020/staff-packet-2020.pdf
-[4]: /pdf/2016/Reference_Form.pdf
-[5]: /pdf/2016/Self_Declaration_Form.pdf
+[1]: /pdf/2022/chorister-packet-2022.pdf
+[2]: /pdf/2022/adult-packet-2022.pdf
+[4]: /pdf/2022/reference-form.pdf
+[5]: /pdf/2022/self-declaration-form.pdf
+[6]: /pdf/2022/adult-code-of-conduct.pdf
 [7]: /contact
 [12]: /pdf/2020/adult-signature-page.pdf
 [13]: /pdf/2020/chorister-signature-page.pdf
