@@ -1,6 +1,7 @@
 ---
 title: '2021 Course Director: Daniel Cook'
 author: jjneely
+draft: true
 layout: post
 date: 2020-08-14
 categories:

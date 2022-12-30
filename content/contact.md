@@ -10,5 +10,5 @@ To contact the Carolina Course staff please use one of the following email addre
     1765 W. Pennsylvania Ave. <br />
     Southern Pines, NC 28387 <br />
     910.690.9236
-  * **Course Manager:** Matthew Brown: <manager@carolinarscm.org>
+  * **Course Manager:** Matthew Brown: <matthew@stlukesatlanta.org>
   * **Webmaster:** Jack Neely: <webmaster@carolinarscm.org>

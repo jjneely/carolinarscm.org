@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '2020 Course Cancelled Amid COVID-19'
 author: jjneely
 layout: post

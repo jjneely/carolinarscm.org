@@ -25,19 +25,27 @@ Maps:
 
 {{% courseleadership %}}
 
+# Things to Bring
+
+* A cover or blanket of some sort – not too heavy!
+* A pillow
+* Bath slippers
+* Your choir robe from church
+* Your music – please have it 3 hole punched!
+* Black enclosed toe shoes for Sunday
+* A musical instrument if you would like to play it for the talent show
+* Your umbrella – it always seems to rain a day or two
+
 # Registration Forms
 
 Registration is now open!  You may [contact][7] us with any questions you may
 have.  Please remember that all participants and course staff must have all
 forms on file.
 
-<!--
 <div class="alert alert-warning" role="alert">
-The 2019 RSCM Carolina Course is now <b>at capacity</b> for all participants.
-Please email us to ask about the wait list.  Or, visit the
-<a href="https://www.stje.org/rscm">Charlotte Training Course</a> website for availability at our sister course!
+The 2022 RSCM Carolina Course is now <b>at capacity</b> for all adult and minor age
+participants.  Please email us to ask about the wait list.
 </div>
--->
 
 We encourage you to submit your registration forms electronically using
 Google Forms.
@@ -106,7 +114,6 @@ payments or donations.
 You may also pay by mailing a check to the course [registrar][7].  You
 can also send any questions you have by email or phone.
 
-<!---
 # Music
 
 Music for 2022 is listed below.  It is available from Cliff Hill Music by
@@ -114,8 +121,17 @@ emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
 obtaining, and practicing your music before you arrive at the course.
 
-* TBD
--->
+* Harold Darke, *Communion Service in E* (pub. Oxford)
+* Kenneth Leighton, *O Sacrum Convivium* (pub. Banks)
+* Ernest Walker, *I Will Lift Up Mine Eyes* (pub. Novello/Hal Leonard)
+* John Rutter, *God Be In My Head* (pub. Oxford/Peters)
+* Leo Sowerby, *Eternal Light* (pub. Fitzsimmons/Hal Leonard)
+* Gerald Near, *Phos Hilaron* (pub. Canticle Distributing)
+* David Hurd, *Mag & Nunc (Sewanee Service)*  (pub. ECS/Canticle)
+* Charles Stanford, *For Lo, I Raise Up* (pub. Stainer & Bell)
+* Käthe Wright Kaufman, *Preces and Responses* (commissioned and copy forthcoming)
+* Carl Rütti, *St. Peter and St. Paul*
+* Plus hymns, psalms, and descants!
 
 [1]: /pdf/2022/chorister-packet-2022.pdf
 [2]: /pdf/2022/adult-packet-2022.pdf

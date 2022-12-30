@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '2021 Course Organist: Stephen Gourley'
 author: jjneely
 layout: post
