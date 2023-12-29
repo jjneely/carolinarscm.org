@@ -1,14 +1,14 @@
 baseurl: "http://carolinarscm.org"
 languageCode: "en-us"
-title: "RSCM Carolina Course for Girls & Adults"
+title: "Royal School of Church Music in America Carolina Summer Choral Residency"
 description: Psallam spiritu et mente
 MetaDataFormat: "yaml"
-copyright: "Copyright &#xA9; 2023 RSCM Carolina Course for Girls &amp; Adults"
+copyright: "Copyright &#xA9; 2023 Royal School of Church Music in America Carolina Summer Choral Residency"
 
 params:
   googlesite: carolinarscm.org
 
-  dateline: 2023 Course dates are July 10 - 16, 2023
+  dateline: 2024 Course dates are July 8th - 14th, 2024
   current: 2023
 
   # Max number of new articles to show on main page
@@ -30,12 +30,12 @@ menu:
       parent: Past Courses
       weight: -50
       url: /courses/
+    - name: Feedback Survey
+      weight: 150
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfK4j6tTb3baQNMdzQkKGzziYfAKZd_MNYqGjRX775GFFoBpQ/viewform
 #    - name: Maps
 #      weight: 140
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
-#    - name: Course Feedback Survey
-#      weight: 150
-#      url: https://docs.google.com/forms/d/1BX3zoh7EeMEfsjcxWHnCLKTWn_UVKnNR6E-k46-cVK4/edit
 
   links:
     - name: Central North Carolina Chapter of the American Guild of Organists

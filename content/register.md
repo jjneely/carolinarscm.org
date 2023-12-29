@@ -7,10 +7,13 @@ aliases:
   - /course-information/repertoire/
 ---
 
-The 26th annual Royal School of Church Music Carolina Course for girls and
-adults will be held July 10 - 16, 2023 on the campus of Duke University.  The
-course Music Director will be Mathew Owens, Music Director of Belfast Cathedral,
-in Northern Ireland.  The Course welcomes Käthe Wright Kaufman as Organist.
+The 26th annual Royal School of Church Music in America Carolina Summer Choral Residency
+will be held July 10 - 16, 2023 on the campus of Duke University.  The
+course Music Director will be Matthew Owens.  Matthew Owens is the Music
+Director for The Ulster Consort, Director for The Cranmer Anthem Book,
+Conductor of The Belfast City Chorus, and
+Associate Director of The Grand Rapids Choir of Men and Boys.
+The Course welcomes Käthe Wright Kaufman as Organist.
 
 # Course Staff
 
@@ -20,11 +23,17 @@ in Northern Ireland.  The Course welcomes Käthe Wright Kaufman as Organist.
 
 * A cover or blanket of some sort – not too heavy!
 * A pillow
-* Bath slippers
-* Your choir robe from church
-* Your music – please have it 3 hole punched!
+* Extra Long Twin Sheets
+* Any prescribed medications
+* Bath essentials: slippers, shampoo, soap, toothbrush/paste, etc.
+* Shoes for the shower
+* Shorts/skirts and tops for the week
+* Your choir robe from your church
+* Your music – please have it 3 hole punched AND practiced!
 * Black enclosed toe shoes for Sunday
-* A musical instrument if you would like to play it for the talent show
+* Sunday clothes -- think sleeveless
+* A musical instrument if you would like to play it for the talent show (girls
+  only)
 * Your umbrella – it always seems to rain a day or two
 
 # Registration Forms
@@ -33,12 +42,10 @@ Registration is now open!  You may [contact][7] us with any questions you may
 have.  Please remember that all participants and course staff must have all
 forms on file.
 
-<!--
-<div class="alert alert-warning" role="alert">
-The 2022 RSCM Carolina Course is now <b>at capacity</b> for all adult and minor age
-participants.  Please email us to ask about the wait list.
+<div class="alert alert-danger" role="alert">
+The 2023 RSCM Carolina Course is now <b>at capacity for all participants.</b>
+Please email us to ask about the wait list.
 </div>
--->
 
 We encourage you to submit your registration forms electronically using
 Google Forms.
@@ -109,27 +116,23 @@ can also send any questions you have by email or phone.
 
 # Music
 
-Music for 2023 has yet to be finalized.  Check back for instructions for
-ordering this year's course packet.
-
-<!--
+Music for 2023
 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
 obtaining, and practicing your music before you arrive at the course.
 
-* Harold Darke, *Communion Service in E* (pub. Oxford)
-* Kenneth Leighton, *O Sacrum Convivium* (pub. Banks)
-* Ernest Walker, *I Will Lift Up Mine Eyes* (pub. Novello/Hal Leonard)
-* John Rutter, *God Be In My Head* (pub. Oxford/Peters)
-* Leo Sowerby, *Eternal Light* (pub. Fitzsimmons/Hal Leonard)
-* Gerald Near, *Phos Hilaron* (pub. Canticle Distributing)
-* David Hurd, *Mag & Nunc (Sewanee Service)*  (pub. ECS/Canticle)
-* Charles Stanford, *For Lo, I Raise Up* (pub. Stainer & Bell)
-* Käthe Wright Kaufman, *Preces and Responses* (commissioned and copy forthcoming)
-* Carl Rütti, *St. Peter and St. Paul*
+* Jonathan Dove, *Missa Brevis*
+* William Byrd, *Team Me, O Lord*
+* Colin Mawby, *Ave Verum Corpus*
+* Roxanna Paufnik, *Ubi caritas* (Trebles only)
+* Matthew Owen, *Holy Trinity Blessing*
+* Gabriel Jackson, *Preces and Responses*
+* George Dyson, *Evening Service in D*
+* Philip Moore, *All Wisdom cometh from the Lord*
+* Cecilia McDowall, *O God the Protector of All* (commissioned and copy
+  forthcoming)
 * Plus hymns, psalms, and descants!
--->
 
 [1]: /pdf/2023/chorister-packet-2023.pdf
 [2]: /pdf/2023/adult-packet-2023.pdf
