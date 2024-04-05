@@ -6,6 +6,7 @@ menu:
   main:
     parent: About
 ---
+<!--
 ## Available Course Schedules
 
   * [2014 RSCM Carolina Course Daily Schedule (PDF)][1]
@@ -13,8 +14,9 @@ menu:
   * [2012 RSCM Carolina Course Daily Schedule (PDF)][3]
   * [2011 RSCM Carolina Course Daily Schedule (PDF)][4]
 
-Final schedules for the course will be posted as available. The following is an
-example of a typical day at an RSCM course.
+-->
+The following is an example of a typical day at the RSCM Carolina Summer
+Choral Residency.
 
 | Time | Activity |
 | ---- | -------- |

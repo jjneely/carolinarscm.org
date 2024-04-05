@@ -1,24 +1,25 @@
 ---
 title: "Registration Information"
-date: 2022-12-30
+date: 2023-12-29
 layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
 ---
 
-The 26th annual Royal School of Church Music in America Carolina Summer Choral Residency
-will be held July 10 - 16, 2023 on the campus of Duke University.  The
-course Music Director will be Matthew Owens.  Matthew Owens is the Music
-Director for The Ulster Consort, Director for The Cranmer Anthem Book,
-Conductor of The Belfast City Chorus, and
-Associate Director of The Grand Rapids Choir of Men and Boys.
-The Course welcomes Käthe Wright Kaufman as Organist.
+The 27th annual Royal School of Church Music in America Carolina Summer Choral
+Residency will be held July 8 - 14, 2024 on the campus of Duke University.
+The Music Director is Nick Quardokus, Canon Organist and Director of Music at
+Grace Church Cathedral in Charleston, SC.  We welcome James Kealey, Interim
+Director of Music/Organist of Third Presbyterian Church in Rochester, NY as
+the organist.  The chaplain for this year is Rev. Rita Powell, the Episcopal
+Chaplain at Harvard.
 
 # Course Staff
 
 {{% courseleadership %}}
 
+<!--
 # Things to Bring
 
 * A cover or blanket of some sort – not too heavy!
@@ -35,6 +36,7 @@ The Course welcomes Käthe Wright Kaufman as Organist.
 * A musical instrument if you would like to play it for the talent show (girls
   only)
 * Your umbrella – it always seems to rain a day or two
+-->
 
 # Registration Forms
 
@@ -42,16 +44,18 @@ Registration is now open!  You may [contact][7] us with any questions you may
 have.  Please remember that all participants and course staff must have all
 forms on file.
 
+<!--
 <div class="alert alert-danger" role="alert">
 The 2023 RSCM Carolina Course is now <b>at capacity for all participants.</b>
 Please email us to ask about the wait list.
 </div>
+-->
 
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSc5jemHV5tvHOmfLKegLEeM-s77bZWLZpo8jOLNHzAPZpI58Q/viewform">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScXF5T5Lrnaoy-z8gjo43hBhwKOurNqYhvL4l-RFNvZsaUAeg/viewform?usp=sf_link">Register Online!</a>
 </p>
 
 When registering electronically the following forms must also be completed
@@ -66,16 +70,17 @@ kept on file by the RSCM America.
 
 Staff members are also required to register and submit these forms.
 
-A $100 deposit is required with completed registration forms to reserve
-your place in this year's RSCM Carolina Course.  Please see payment information
-below.
+A $100 deposit is required with completed registration forms to reserve your
+place in this year's RSCM Carolina Summer Choral Residency.  Please see
+payment information below.
 
 Paper forms which may be mailed to the [registrar][7] or scanned and emailed.
 These forms contain the all the necessary signatures and safety information.
 Use these forms when not registering online.
 
-* [2023 Chorister Packet][1]: For minor aged participants.
-* [2023 Adult Packet][2]: For participants and staff aged 18 and above.
+* [2024 Chorister Packet][1]: For minor aged participants.
+* [2024 Adult Packet][2]: For participants aged 18 and above.
+* [2024 Staff Packet][2]: For all staff.
 * [Adult Code of Conduct][6]: For participants and staff aged 18 and above.
 * [Self Declaration Form][5]: All adults and staff must complete each year.
 * [Reference Forms][4] All adults and staff must complete once every 3 years.
@@ -84,9 +89,10 @@ If you have any questions please feel free to [contact us!][7]
 
 # Make a Payment
 
-The RSCM Carolina Course is now accepting payments through [PayPal][20]
-which means that you can easily use Visa, MasterCard, American Express,
-Discover, PayPal, or your Checking account for your course registration fees.
+The RSCM Carolina Summer Choral Residency is now accepting payments through
+[PayPal][20] which means that you can easily use Visa, MasterCard, American
+Express, Discover, PayPal, or your Checking account for your course
+registration fees.
 
 A $100 deposit and completed registration forms are required to reserve
 your spot.  Registration fees do not include music.  Click the below
@@ -99,7 +105,7 @@ payments or donations.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2023 Registration Fees</th></tr>
+<tr><th colspan="2">2024 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
 <tr><td>Girl Participant</td><td>$850 / $900 after April 1</td></tr>
 <tr><td>Adult Participant</td><td>$850 / $900 after April 1</td></tr>
@@ -107,7 +113,7 @@ payments or donations.
 </table>
 
 <table class="table">
-<tr><th colspan="2">2023 Discounts</th></tr>
+<tr><th colspan="2">2024 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
@@ -116,27 +122,25 @@ can also send any questions you have by email or phone.
 
 # Music
 
-Music for 2023
+Music for 2024
 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
-obtaining, and practicing your music before you arrive at the course.
+obtaining, and practicing your music before you arrive at the choral residency.
 
-* Jonathan Dove, *Missa Brevis*
-* William Byrd, *Team Me, O Lord*
-* Colin Mawby, *Ave Verum Corpus*
-* Roxanna Paufnik, *Ubi caritas* (Trebles only)
-* Matthew Owen, *Holy Trinity Blessing*
-* Gabriel Jackson, *Preces and Responses*
-* George Dyson, *Evening Service in D*
-* Philip Moore, *All Wisdom cometh from the Lord*
-* Cecilia McDowall, *O God the Protector of All* (commissioned and copy
-  forthcoming)
-* Plus hymns, psalms, and descants!
+* Gerre Hancock, *Missa Resurrectionis* (Rite I)
+* Anthony Piccolo, *O hear us, Lord* (trebles only)
+* Ned Rorem, *Praise the Lord, O my soul*
+* Stephanie Martin, *Ave verum corpus*
+* David Conte, *An Irish Blessing*
+* Eleanor Daley, *Come, renew us*
+* Hubert Parry, *Blest pair of sirens* (SATB version)
+* Leo Sowerby, *Evening Canticles in D Major*
+* Margaret Burk, *Preces & Responses*
 
-[1]: /pdf/2023/chorister-packet-2023.pdf
-[2]: /pdf/2023/adult-packet-2023.pdf
-[3]: /pdf/2023/staff-packet-2023.pdf
+[1]: /pdf/2024/chorister-packet-2024.pdf
+[2]: /pdf/2024/adult-packet-2024.pdf
+[3]: /pdf/2024/staff-packet-2024.pdf
 [4]: /pdf/2022/reference-form.pdf
 [5]: /pdf/2022/self-declaration-form.pdf
 [6]: /pdf/2022/adult-code-of-conduct.pdf

@@ -3,13 +3,13 @@ languageCode: "en-us"
 title: "Royal School of Church Music in America Carolina Summer Choral Residency"
 description: Psallam spiritu et mente
 MetaDataFormat: "yaml"
-copyright: "Copyright &#xA9; 2023 Royal School of Church Music in America Carolina Summer Choral Residency"
+copyright: "Copyright &#xA9; 2024 Royal School of Church Music in America Carolina Summer Choral Residency"
 
 params:
   googlesite: carolinarscm.org
 
   dateline: 2024 Course dates are July 8th - 14th, 2024
-  current: 2023
+  current: 2024
 
   # Max number of new articles to show on main page
   maxnews: 4
@@ -30,9 +30,9 @@ menu:
       parent: Past Courses
       weight: -50
       url: /courses/
-    - name: Feedback Survey
-      weight: 150
-      url: https://docs.google.com/forms/d/e/1FAIpQLSfK4j6tTb3baQNMdzQkKGzziYfAKZd_MNYqGjRX775GFFoBpQ/viewform
+#    - name: Feedback Survey
+#      weight: 150
+#      url: https://docs.google.com/forms/d/e/1FAIpQLSfK4j6tTb3baQNMdzQkKGzziYfAKZd_MNYqGjRX775GFFoBpQ/viewform
 #    - name: Maps
 #      weight: 140
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
