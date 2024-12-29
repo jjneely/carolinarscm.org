@@ -9,7 +9,7 @@ categories:
 ---
 The registration materials for the 2014 RSCM Carolina course are now available on the [registration][1] page.  Get your registration in today to reserve your spot!
 
-We are limited to the first 35 girls, so the first ones to get their deposit money will be in the course! The girls, proctors and some staff will be housed at Saint Mary’s School. The remaining adults will be housed at the Doubletree Inn on Hillsborough Street right down the road from the school.
+We are limited to the first 35 choristers, so the first ones to get their deposit money will be in the course! The choristers, proctors and some staff will be housed at Saint Mary’s School. The remaining adults will be housed at the Doubletree Inn on Hillsborough Street right down the road from the school.
 
 Please feel free to email the registrar or course manager with any questions that you may have concerning the course. Contact information is on the [contact page][2].
 

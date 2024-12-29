@@ -17,7 +17,7 @@ Additionally, choirmasters and organists both will be enriched by
   * organ recitals by acclaimed organist
   * sessions on choir and vocal technique building.
 
-Girls will also have opportunities to increase reading and singing ability through
+Choristers will also have opportunities to increase reading and singing ability through
 
   * daily ear training sessions and
   * daily small group voice coachings.

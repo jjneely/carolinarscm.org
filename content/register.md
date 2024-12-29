@@ -33,7 +33,7 @@ Chaplain at Harvard.
 * Your music – please have it 3 hole punched AND practiced!
 * Black enclosed toe shoes for Sunday
 * Sunday clothes -- think sleeveless
-* A musical instrument if you would like to play it for the talent show (girls
+* A musical instrument if you would like to play it for the talent show (choristers
   only)
 * Your umbrella – it always seems to rain a day or two
 -->
@@ -44,12 +44,10 @@ Registration is now open!  You may [contact][7] us with any questions you may
 have.  Please remember that all participants and course staff must have all
 forms on file.
 
-<!--
 <div class="alert alert-danger" role="alert">
-The 2023 RSCM Carolina Course is now <b>at capacity for all participants.</b>
+The 2024 RSCM Carolina Course is now <b>at capacity for all participants.</b>
 Please email us to ask about the wait list.
 </div>
--->
 
 We encourage you to submit your registration forms electronically using
 Google Forms.
@@ -107,7 +105,7 @@ payments or donations.
 <table class="table">
 <tr><th colspan="2">2024 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
-<tr><td>Girl Participant</td><td>$850 / $900 after April 1</td></tr>
+<tr><td>Chorister Participant</td><td>$850 / $900 after April 1</td></tr>
 <tr><td>Adult Participant</td><td>$850 / $900 after April 1</td></tr>
 <tr><td>Adult Day Participant</td><td>$600 (includes meals) or $500 (no meals)</td></tr>
 </table>

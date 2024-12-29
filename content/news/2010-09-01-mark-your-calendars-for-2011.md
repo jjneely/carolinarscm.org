@@ -7,7 +7,7 @@ url: /2010/09/mark-your-calendars-for-2011/
 categories:
   - Uncategorized
 ---
-The 2011 Carolina RSCM Course for Girls and Adults will be held once again at [St. Mary&#8217;s School][1] in Raleigh, NC.  Mark your calendar for July 11th &#8211; 17th, 2011!
+The 2011 Carolina RSCM Course for Choristers and Adults will be held once again at [St. Mary&#8217;s School][1] in Raleigh, NC.  Mark your calendar for July 11th &#8211; 17th, 2011!
 
 This year our music director will be Richard Webster from Trinity Church, Boston.  Matthew Brown from First United Methodist Church, Salisbury, NC will return as our organist.
 

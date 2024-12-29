@@ -6,10 +6,10 @@ menu:
   main:
     parent: About
 ---
-Each summer at the Carolina Course, the girls and adults have the opportunity
+Each summer at the Carolina Course, the choristers and adults have the opportunity
 to sing selections they may otherwise never experience. Sometimes these
-selections allow the girls and adults an opportunity to sing, successfully,
-music they may once have considered impossible. As the week ends and the girls
+selections allow the choristers and adults an opportunity to sing, successfully,
+music they may once have considered impossible. As the week ends and the choristers
 and adults gather for festival Eucharist and Evensong, the words of Psalm 100
 are embodied:
 

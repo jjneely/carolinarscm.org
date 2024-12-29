@@ -24,7 +24,7 @@ and Arranger for All Angels and Laura Wright since they started; worked as
 arranger, musical director and pianist for Hayley Westenra, with whom he has
 toured Japan; he has toured with Will Martin, and has done a lot of arranging
 for Gary Barlow’s record company with the singer, Camilla Kerslake. Simon is
-now Musical Director for both Aled Jones and the girl group, Celeste, and
+now Musical Director for both Aled Jones and the chorister group, Celeste, and
 regularly arranges music for both of them.
 
 He has worked regularly with the City of Prague Philharmonic Orchestra,

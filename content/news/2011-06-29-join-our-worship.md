@@ -7,7 +7,7 @@ url: /2011/06/join-our-worship/
 categories:
   - Uncategorized
 ---
-The 2011 RSCM Course for Girls and Adults will have three services open to the public.  You are invited to witness our ministry to the world and worship with us.  Directions to the venus can be found on our [Venus and Maps][1] post.
+The 2011 RSCM Course for Choristers and Adults will have three services open to the public.  You are invited to witness our ministry to the world and worship with us.  Directions to the venus can be found on our [Venus and Maps][1] post.
 
 Choral Evensong at St Mary’s School  
 7:00 pm  Friday, July 15  

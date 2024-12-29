@@ -7,9 +7,9 @@ url: /2013/12/2014-carolina-course-information/
 categories:
   - Uncategorized
 ---
-The girls and adults of the Carolina Course, in residence on the historic campus of Saint Mary&#8217;s School, will be immersed in magnificent choral music and great fun as they prepare for closing services in beautiful sacred spaces. Under the inspired direction of conductor, composer, and organist Malcolm Archer, currently Director of Chapel Music at Winchester College, England, the Carolina Course choir will experience the thrill of choral music making at its best. Space will be a bit limited this year, so singers are encouraged to register early. Organists age 18-25 are invited to apply for the Organ Scholar position by contacting the Course Manager.
+The choristers and adults of the Carolina Course, in residence on the historic campus of Saint Mary&#8217;s School, will be immersed in magnificent choral music and great fun as they prepare for closing services in beautiful sacred spaces. Under the inspired direction of conductor, composer, and organist Malcolm Archer, currently Director of Chapel Music at Winchester College, England, the Carolina Course choir will experience the thrill of choral music making at its best. Space will be a bit limited this year, so singers are encouraged to register early. Organists age 18-25 are invited to apply for the Organ Scholar position by contacting the Course Manager.
 
-  * Participants: 35 girls, age 10-18; 20 adults; 1 organ scholar
+  * Participants: 35 choristers, age 10-18; 20 adults; 1 organ scholar
   * Dates: July 7-13, 2014
   * Music Director: Malcolm Archer
   * Organist: Edie Johnson

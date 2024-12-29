@@ -30,13 +30,13 @@ Choral Residency.
 | 11:40 | Full Rehearsal |
 | 12:30 | Lunch |
 | 1:15 | Rest Time |
-| 2:00 | Supervised Activities for Girls and Master Classes / Seminars for Adults |
+| 2:00 | Supervised Activities for Choristers and Master Classes / Seminars for Adults |
 | 4:00 | Full Rehearsal |
 | 5:00 | Evensong |
 | 5:30 | Dinner |
 | 6:15 | House Rehearsals |
 | 7:30 | Organ Recital or Activity |
-| 8:30 | Evening Activity (for Girls) |
+| 8:30 | Evening Activity (for Choristers) |
 | 10:00 | Compline and lights out |
 
  [1]: /wp-content/uploads/2010/08/RSCM-CHORISTER-BINDER-DOCUMENTS-2014-1.pdf

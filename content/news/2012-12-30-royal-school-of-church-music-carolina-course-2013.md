@@ -8,7 +8,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <strong>RSCM Carolina Course</strong><br /> <strong> for Girls, Teen Girls & Adults</strong><br /> <strong> July 8-14, 2013</strong><br /> <strong> David Hill, Music Director</strong><br /> <strong> David Arcus, Organist</strong><br /> <strong> Closing services in Duke University Chapel & St. Michael’s Episcopal Church, Raleigh.</strong>
+  <strong>RSCM Carolina Course</strong><br /> <strong> for Choristers, Teen Choristers & Adults</strong><br /> <strong> July 8-14, 2013</strong><br /> <strong> David Hill, Music Director</strong><br /> <strong> David Arcus, Organist</strong><br /> <strong> Closing services in Duke University Chapel & St. Michael’s Episcopal Church, Raleigh.</strong>
 </p>
 
 *In residence on the historic campus of Saint Mary’s School in Raleigh, NC, the Carolina Course features outstanding choral repertoire, a marvelous music staff, and thrilling closing service venues, offering an unforgettable week of singing, worship, education, and fun.  
@@ -18,7 +18,7 @@ The 2013 Carolina Course will be the subject of a documentary film about RSCM tr
 
 Participants:
 
-  * 40 girls age 10 – 18
+  * 40 choristers age 10 – 18
   * 25 adults
   * 1 organ scholar
 

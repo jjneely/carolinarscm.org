@@ -19,7 +19,7 @@ photographer.
 
 {{% figure src="/images/2015-course-picture-web.jpg" alt="2015 RSCM Carolina Course Photo" title="2015 RSCM Carolina Course Photo" link="/images/2015-course-picture.jpg" %}}
 
-{{% figure src="/images/2015-course-picture-girls-web.jpg" alt="2015 RSCM Carolina Girls Photo" title="2015 RSCM Carolina Girls Photo" link="/images/2015-course-picture-girls.jpg" %}}
+{{% figure src="/images/2015-course-picture-choristers-web.jpg" alt="2015 RSCM Carolina Choristers Photo" title="2015 RSCM Carolina Choristers Photo" link="/images/2015-course-picture-choristers.jpg" %}}
 
 Please fill out the [course evaluation][1].  You'll find the password on page
 11 of your 2015 RSCM binder.  Of course, you can also [email][2] us with any

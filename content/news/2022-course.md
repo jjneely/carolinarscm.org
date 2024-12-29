@@ -16,7 +16,7 @@ surrounded by glorious music, kindred fellowship, and inspiring architecture on
 the beautiful campus of Duke University. Celebratory concerts by guest artists
 will add to our festive anniversary year. Early registration is encouraged.
 
-**Participants:** 50 girls, age 10-18; 40 adults
+**Participants:** 50 choristers, age 10-18; 40 adults
 
 **Dates:** July 11 - 17, 2022
 
@@ -30,8 +30,8 @@ will add to our festive anniversary year. Early registration is encouraged.
 
 **Concerts/Services Venues:** Duke University Chapel and Duke Divinity School
 
-**Course Fees:** Registrations received by April 1, 2022: $675 for girls and
-adults; $450 for commuting adults. After April 1: $700 for girls and adults;
+**Course Fees:** Registrations received by April 1, 2022: $675 for choristers and
+adults; $450 for commuting adults. After April 1: $700 for choristers and adults;
 $450 for commuting adults. RSCM members receive a $25 discount. Contact:
 Marilyn Neely, Registrar or Matthew Brown, Course Manager from our [contact][1]
 page.

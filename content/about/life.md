@@ -18,12 +18,12 @@ experiences to young and old alike.
 
 Participants will enjoy daily small group rehearsals with their housemaster.
 The housemasters are acclaimed choral directors that are on staff to work with
-each group, or house, of girls or adults. Ear training and one on one coaching
+each group, or house, of choristers or adults. Ear training and one on one coaching
 are also available for those interested.
 
 {{% figure src="/wp-content/uploads/2010/08/monkey.jpg" title="Life in the Dorms" %}}
 
-The girls live together in the dorm and enjoy games, crafts, and social
+The choristers live together in the dorm and enjoy games, crafts, and social
 activities. Many participants come back year after year to reunite with their
 RSCM friends and even talk about other courses they have attended.
 

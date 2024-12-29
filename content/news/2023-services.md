@@ -8,7 +8,7 @@ categories:
 ---
 
 All are welcome to the 2023 RSCM Carolina Course closing services.  Please
-enjoy hearing the results of the hard work the girls have done all week in the
+enjoy hearing the results of the hard work the choristers have done all week in the
 beautiful space of Duke Chapel.
 Whether you have friends and family taking part in the Course or just enjoy
 fantastic music, come worship with us in the beauty of holiness.  Find the
