@@ -3,13 +3,13 @@ languageCode: "en-us"
 title: "Royal School of Church Music in America Carolina Summer Choral Residency"
 description: Psallam spiritu et mente
 MetaDataFormat: "yaml"
-copyright: "Copyright &#xA9; 2024 Royal School of Church Music in America Carolina Summer Choral Residency"
+copyright: "Copyright &#xA9; 2025 Royal School of Church Music in America Carolina Summer Choral Residency"
 
 params:
   googlesite: carolinarscm.org
 
   dateline: 2025 Course dates are July 14th - 20th
-  current: 2024
+  current: 2025
 
   # Max number of new articles to show on main page
   maxnews: 4
@@ -30,9 +30,9 @@ menu:
       parent: Past Courses
       weight: -50
       url: /courses/
-    - name: Feedback Survey
-      weight: 150
-      url: https://docs.google.com/forms/d/e/1FAIpQLSf2mPuCJs0Ch50mYj0RcyAne8TcYFBPzFjQ68obgVdqmDj3kQ/viewform
+#    - name: Feedback Survey
+#      weight: 150
+#      url: https://docs.google.com/forms/d/e/1FAIpQLSf2mPuCJs0Ch50mYj0RcyAne8TcYFBPzFjQ68obgVdqmDj3kQ/viewform
 #    - name: Maps
 #      weight: 140
 #      url: https://www.google.com/maps/d/edit?mid=1tjUeaZAe8CGTJLLZrpjJE99mNUU
@@ -42,8 +42,6 @@ menu:
       url: http://www.agohq.org/chapters/centralnc/
     - name: John-Paul Buzard Pipe Organ Builders
       url: http://buzardorgans.com/
-#    - name: Charlotte Training Course for Choristers, Teens, and Adults
-#      url: http://www.saintjohns-charlotte.org/rscm/
     - name: RSCM America
       url: http://www.rscmamerica.org
     - name: RSCM International

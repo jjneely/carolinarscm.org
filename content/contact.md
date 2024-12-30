@@ -1,14 +1,19 @@
 ---
 title: Contact
 author: jjneely
-date: 2010-08-25
+date: 2024-12-30
 url: /contact
 ---
-To contact the Carolina Course staff please use one of the following email addresses:
+To contact the Royal School of Church Music in America Carolina Summer Choral
+Residency staff please use one of the following email addresses:
 
-  * **Course Registrar:** Marilyn Neely: <registrar@carolinarscm.org> <br />
-    1765 W. Pennsylvania Ave. <br />
-    Southern Pines, NC 28387 <br />
-    910.690.9236
-  * **Course Manager:** Matthew Brown: <matthew@stlukesatlanta.org>
-  * **Webmaster:** Jack Neely: <webmaster@carolinarscm.org>
+  * **Chorister Registrar:** Pam Hair: <pamela.hair.rscm@gmail.com> <br />
+    301 Derrick Lane<br />
+    Blythewood, SC 29016<br />
+    803.315.2740
+  * **Adult Registrar:** Stephen Gourley: <stephenjgourley@my.unt.edu> <br />
+    560 Burning Tree Rd<br />
+    Pinehurst NC 28374<br />
+    919.920.4621
+  * **Course Manager:** Mark Ardrey-Graves: <drmagdma@gmail.com>
+  * **Webmaster:** Jack Neely: <jjneely@gmail.com>

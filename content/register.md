@@ -1,19 +1,19 @@
 ---
 title: "Registration Information"
-date: 2023-12-29
+date: 2024-12-29
 layout: current
 aliases:
   - /course-information/registration-and-forms/
   - /course-information/repertoire/
 ---
 
-The 27th annual Royal School of Church Music in America Carolina Summer Choral
-Residency will be held July 8 - 14, 2024 on the campus of Duke University.
-The Music Director is Nick Quardokus, Canon Organist and Director of Music at
-Grace Church Cathedral in Charleston, SC.  We welcome James Kealey, Interim
-Director of Music/Organist of Third Presbyterian Church in Rochester, NY as
-the organist.  The chaplain for this year is Rev. Rita Powell, the Episcopal
-Chaplain at Harvard.
+The 28th annual Royal School of Church Music in America Carolina Summer Choral
+Residency will be held July 14 - 20, 2025 on the campus of Duke University.
+Tansy Castledine, Director of Music at Peterborough Cathedral, UK, is this
+year's Music Director.  The Residency's Organist is Margaret Harper who is
+Director of Music at Trinity Episcopal Church in Princeton, NJ.  The Chaplain
+is the Reverend Andrew Kryzak who hails from St. John's Episcopal Church in
+Stamford, CT.
 
 # Course Staff
 
@@ -40,6 +40,10 @@ Chaplain at Harvard.
 
 # Registration Forms
 
+Registration is not yet open.  Please check back soon for registration
+details.
+
+<!--
 Registration is now open!  You may [contact][7] us with any questions you may
 have.  Please remember that all participants and course staff must have all
 forms on file.
@@ -84,16 +88,17 @@ Use these forms when not registering online.
 * [Reference Forms][4] All adults and staff must complete once every 3 years.
 
 If you have any questions please feel free to [contact us!][7]
+-->
 
 # Make a Payment
 
-The RSCM Carolina Summer Choral Residency is now accepting payments through
+The RSCM Carolina Summer Choral Residency is accepting payments through
 [PayPal][20] which means that you can easily use Visa, MasterCard, American
-Express, Discover, PayPal, or your Checking account for your course
+Express, Discover, PayPal, or your checking account for your
 registration fees.
 
 A $100 deposit and completed registration forms are required to reserve
-your spot.  Registration fees do not include music.  Click the below
+your spot.  Registration fees do **not** include music.  Click the below
 PayPal button to make a payment.  PayPal will ask you for the specific
 amount you wish to pay.  You may also use this page to make any additional
 payments or donations.
@@ -103,7 +108,7 @@ payments or donations.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2024 Registration Fees</th></tr>
+<tr><th colspan="2">2025 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
 <tr><td>Chorister Participant</td><td>$850 / $900 after April 1</td></tr>
 <tr><td>Adult Participant</td><td>$850 / $900 after April 1</td></tr>
@@ -111,7 +116,7 @@ payments or donations.
 </table>
 
 <table class="table">
-<tr><th colspan="2">2024 Discounts</th></tr>
+<tr><th colspan="2">2025 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
@@ -120,6 +125,9 @@ can also send any questions you have by email or phone.
 
 # Music
 
+Music and ordering instructions will be available shortly.
+
+<!--
 Music for 2024
 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
@@ -135,6 +143,7 @@ obtaining, and practicing your music before you arrive at the choral residency.
 * Hubert Parry, *Blest pair of sirens* (SATB version)
 * Leo Sowerby, *Evening Canticles in D Major*
 * Margaret Burk, *Preces & Responses*
+-->
 
 [1]: /pdf/2024/chorister-packet-2024.pdf
 [2]: /pdf/2024/adult-packet-2024.pdf
