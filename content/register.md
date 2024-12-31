@@ -38,29 +38,37 @@ Stamford, CT.
 * Your umbrella – it always seems to rain a day or two
 -->
 
-# Registration Forms
-
-Registration is not yet open.  Please check back soon for registration
-details.
+# Residency Registration
 
 <!--
-Registration is now open!  You may [contact][7] us with any questions you may
-have.  Please remember that all participants and course staff must have all
-forms on file.
-
 <div class="alert alert-danger" role="alert">
-The 2024 RSCM Carolina Course is now <b>at capacity for all participants.</b>
-Please email us to ask about the wait list.
 </div>
+-->
 
+Registration is now open!  You may [contact][7] us with any questions you may
+have.  Please remember that all youth, adults, and staff must have all forms
+on file prior to arrival at Duke University.
+
+A $100 deposit is required with completed registration forms to reserve your
+place in this year's RSCM Carolina Summer Choral Residency.  Please see
+payment information below.
+
+Staff members are also **required** to register and submit these forms.
+
+## Online Registration
+
+Online registration is forth coming.  We plan to have that available shortly.
+
+<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScXF5T5Lrnaoy-z8gjo43hBhwKOurNqYhvL4l-RFNvZsaUAeg/viewform?usp=sf_link">Register Online!</a>
 </p>
+-->
 
-When registering electronically the following forms must also be completed
+When registering online the following forms **must also** be completed
 and either mailed or sent via scan / photo to the [registrar][7].  When
 completed these forms contain signatures and safety information that is
 kept on file by the RSCM America.
@@ -70,38 +78,34 @@ kept on file by the RSCM America.
 * [Self Declaration Form][5] (Adults and Staff Only)
 * [Reference Forms][4] (Adults and Staff Only, Every 3 Years)
 
-Staff members are also required to register and submit these forms.
-
-A $100 deposit is required with completed registration forms to reserve your
-place in this year's RSCM Carolina Summer Choral Residency.  Please see
-payment information below.
+## USPS / Scanner Registration
 
 Paper forms which may be mailed to the [registrar][7] or scanned and emailed.
 These forms contain the all the necessary signatures and safety information.
 Use these forms when not registering online.
 
-* [2024 Chorister Packet][1]: For minor aged participants.
-* [2024 Adult Packet][2]: For participants aged 18 and above.
-* [2024 Staff Packet][2]: For all staff.
+* [2025 Chorister Packet][1]: For minor aged participants.
+* [2025 Adult Packet][2]: For participants aged 18 and above.
+* [2025 Staff Packet][2]: For all staff.
 * [Adult Code of Conduct][6]: For participants and staff aged 18 and above.
 * [Self Declaration Form][5]: All adults and staff must complete each year.
 * [Reference Forms][4] All adults and staff must complete once every 3 years.
 
 If you have any questions please feel free to [contact us!][7]
--->
 
 # Make a Payment
 
 The RSCM Carolina Summer Choral Residency is accepting payments through
-[PayPal][20] which means that you can easily use Visa, MasterCard, American
-Express, Discover, PayPal, or your checking account for your
-registration fees.
+[PayPal][20].  Easily pay registration fees with Visa, MasterCard, American
+Express, Discover, PayPal, or a checking account.
 
-A $100 deposit and completed registration forms are required to reserve
-your spot.  Registration fees do **not** include music.  Click the below
-PayPal button to make a payment.  PayPal will ask you for the specific
-amount you wish to pay.  You may also use this page to make any additional
-payments or donations.
+A $100 deposit **and** completed registration forms are required to reserve a
+spot.  Registration fees do **not** include music.  Click the below PayPal
+button to make a payment.  PayPal will ask for the specific amount to pay.
+Use this feature to pay for deposits, balances, or to cover multiple
+registrations.  This link can also be used for any donations to the RSCM
+Carolina Summer Choral Residency, which is a non-profit 501(c)(3)
+organization.
 
 <p class="text-center">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BLB7ZJ45CR8E"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" /></a>
@@ -145,14 +149,14 @@ obtaining, and practicing your music before you arrive at the choral residency.
 * Margaret Burk, *Preces & Responses*
 -->
 
-[1]: /pdf/2024/chorister-packet-2024.pdf
-[2]: /pdf/2024/adult-packet-2024.pdf
-[3]: /pdf/2024/staff-packet-2024.pdf
+[1]: /pdf/2025/chorister-packet-2025.pdf
+[2]: /pdf/2025/adult-packet-2025.pdf
+[3]: /pdf/2025/adult-packet-2025.pdf
 [4]: /pdf/2022/reference-form.pdf
 [5]: /pdf/2022/self-declaration-form.pdf
 [6]: /pdf/2022/adult-code-of-conduct.pdf
 [7]: /contact
-[12]: /pdf/2023/adult-signature-page.pdf
-[13]: /pdf/2023/chorister-signature-page.pdf
+[12]: /pdf/2025/adult-signature-page.pdf
+[13]: /pdf/2025/chorister-signature-page.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
