@@ -45,9 +45,9 @@ Stamford, CT.
 </div>
 -->
 
-Registration is now open!  You may [contact][7] us with any questions you may
-have.  Please remember that all youth, adults, and staff must have all forms
-on file prior to arrival at Duke University.
+Registration is now open for girls and adults!  You may [contact][7] us with
+any questions you may have.  Please remember that all youth, adults, and staff
+must have all forms on file prior to arrival at Duke University.
 
 A $100 deposit is required with completed registration forms to reserve your
 place in this year's RSCM Carolina Summer Choral Residency.  Please see
@@ -61,7 +61,7 @@ We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://forms.gle/EMuTAfg48yzDpgEt9">Youth Registration</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/EMuTAfg48yzDpgEt9">Girl Registration</a>
 <a class="btn btn-primary btn-lg" href="https://forms.gle/KprjyS9bVDUdD9XS9">Adult Registration</a>
 </p>
 
@@ -81,7 +81,7 @@ Paper forms which may be mailed to the [registrar][7] or scanned and emailed.
 These forms contain the all the necessary signatures and safety information.
 Use these forms when not registering online.
 
-* [2025 Chorister Packet][1]: For minor aged participants.
+* [2025 Girl Packet][1]: For minor aged participants.
 * [2025 Adult Packet][2]: For participants aged 18 and above.
 * [2025 Staff Packet][2]: For all staff.
 * [Adult Code of Conduct][6]: For participants and staff aged 18 and above.
