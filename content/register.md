@@ -57,16 +57,13 @@ Staff members are also **required** to register and submit these forms.
 
 ## Online Registration
 
-Online registration is forth coming.  We plan to have that available shortly.
-
-<!--
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
 <p class="text-center">
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScXF5T5Lrnaoy-z8gjo43hBhwKOurNqYhvL4l-RFNvZsaUAeg/viewform?usp=sf_link">Register Online!</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/EMuTAfg48yzDpgEt9">Youth Registration</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/KprjyS9bVDUdD9XS9">Adult Registration</a>
 </p>
--->
 
 When registering online the following forms **must also** be completed
 and either mailed or sent via scan / photo to the [registrar][7].  When
