@@ -128,23 +128,22 @@ can also send any questions you have by email or phone.
 
 Music and ordering instructions will be available shortly.
 
-<!--
-Music for 2024
+Music for 2025
 is listed below.  It is available from Cliff Hill Music by
 emailing <a href="mailto:cliff@cliffhillmusic.com">cliff@cliffhillmusic.com</a>
 or calling 800-819-8772.  Remember that you are responsible for purchasing,
 obtaining, and practicing your music before you arrive at the choral residency.
 
-* Gerre Hancock, *Missa Resurrectionis* (Rite I)
-* Anthony Piccolo, *O hear us, Lord* (trebles only)
-* Ned Rorem, *Praise the Lord, O my soul*
-* Stephanie Martin, *Ave verum corpus*
-* David Conte, *An Irish Blessing*
-* Eleanor Daley, *Come, renew us*
-* Hubert Parry, *Blest pair of sirens* (SATB version)
-* Leo Sowerby, *Evening Canticles in D Major*
-* Margaret Burk, *Preces & Responses*
--->
+* WA Mozart, *Missa Brevis in D* (KV194)
+* Eleanor Daley, *Upon Your Heart*
+* Bob Chilcott, *Be Thou My Vision*
+* K. Leighton, *Preces and Responses*
+* H. Howells, *Magnificat & Nunc Dimittis* (St. Paul’s Setting)
+* S. S. Wesley, *Ascribe unto the Lord* ([PDF][30])
+* Rheinberger, *Abendlied* ([PDF][31])
+* E. Bairstow, *Let all mortal flesh* ([PDF][32])
+* F. Mendelssohn, *If with all your hearts* (Trebles only) ([PDF][33])
+* Amy Beach, *Peace I leave with you* ([PDF][34])
 
 [1]: /pdf/2025/chorister-packet-2025.pdf
 [2]: /pdf/2025/adult-packet-2025.pdf
@@ -157,3 +156,9 @@ obtaining, and practicing your music before you arrive at the choral residency.
 [13]: /pdf/2025/chorister-signature-page.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
+
+[30]: /pdf/2025/Wesley-Ascribe-unto-the-Lord.pdf
+[31]: /pdf/2025/Rheinberger-Abendlied.pdf
+[32]: /pdf/2025/Bairstow-Let-All-Mortal-Flesh.pdf
+[33]: /pdf/2025/Mendelssohn-If-with.pdf
+[34]: /pdf/2025/Beach-Peace-I-leave-with-you.pdf
