@@ -9,11 +9,11 @@ aliases:
 
 The 28th annual Royal School of Church Music in America Carolina Summer Choral
 Residency will be held July 14 - 20, 2025 on the campus of Duke University.
-Tansy Castledine, Director of Music at Peterborough Cathedral, UK, is this
-year's Music Director.  The Residency's Organist is Margaret Harper who is
-Director of Music at Trinity Episcopal Church in Princeton, NJ.  The Chaplain
-is the Reverend Andrew Kryzak who hails from St. John's Episcopal Church in
-Stamford, CT.
+Joe Causby, Director of Music and Organist at the Chapel of the Cross in
+Chapel Hill, NC, is this year's Music Director.  The Residency's Organist is
+Margaret Harper who is Director of Music at Trinity Episcopal Church in
+Princeton, NJ.  The Chaplain is the Reverend Andrew Kryzak who hails from St.
+John's Episcopal Church in Stamford, CT.
 
 # Course Staff
 
