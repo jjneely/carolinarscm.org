@@ -40,11 +40,6 @@ John's Episcopal Church in Stamford, CT.
 
 # Residency Registration
 
-<!--
-<div class="alert alert-danger" role="alert">
-</div>
--->
-
 Registration is now open for girls and adults!  You may [contact][7] us with
 any questions you may have.  Please remember that all youth, adults, and staff
 must have all forms on file prior to arrival at Duke University.
@@ -60,10 +55,17 @@ Staff members are also **required** to register and submit these forms.
 We encourage you to submit your registration forms electronically using
 Google Forms.
 
+<div class="alert alert-danger" role="alert">
+The 2025 RSCM Carolina Summer Residency is now at capacity and registration
+is closed.
+</div>
+
+<!--
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="https://forms.gle/EMuTAfg48yzDpgEt9">Girl Registration</a>
 <a class="btn btn-primary btn-lg" href="https://forms.gle/KprjyS9bVDUdD9XS9">Adult Registration</a>
 </p>
+-->
 
 When registering online the following forms **must also** be completed
 and either mailed or sent via scan / photo to the [registrar][7].  When
