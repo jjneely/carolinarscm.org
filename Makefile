@@ -1,6 +1,6 @@
 # You can override the hugo binary used to build the site by setting the
 # HUGO environment variable in your shell.  This sets up the default.
-HUGO?=hugo-0.15
+HUGO?=hugo
 
 all:
 	@echo "make producton|test"

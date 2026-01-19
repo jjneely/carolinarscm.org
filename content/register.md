@@ -110,15 +110,15 @@ organization.
 </p>
 
 <table class="table">
-<tr><th colspan="2">2025 Registration Fees</th></tr>
+<tr><th colspan="2">2026 Registration Fees</th></tr>
 <tr><td>Deposit Only</td><td>$100</td></tr>
-<tr><td>Chorister Participant</td><td>$850 / $900 after April 1</td></tr>
-<tr><td>Adult Participant</td><td>$850 / $900 after April 1</td></tr>
+<tr><td>Chorister Participant</td><td>$900 / $950 after April 1</td></tr>
+<tr><td>Adult Participant</td><td>$900 / $950 after April 1</td></tr>
 <tr><td>Adult Day Participant</td><td>$600 (includes meals) or $500 (no meals)</td></tr>
 </table>
 
 <table class="table">
-<tr><th colspan="2">2025 Discounts</th></tr>
+<tr><th colspan="2">2026 Discounts</th></tr>
 <tr><td>RSCM America Membership (Member number required)</td><td>-$25</td></tr>
 </table>
 
