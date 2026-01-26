@@ -156,7 +156,7 @@ obtaining, and practicing your music before you arrive at the choral residency.
 [5]: /pdf/2022/self-declaration-form.pdf
 [6]: /pdf/2022/adult-code-of-conduct.pdf
 [7]: /contact
-[12]: /pdf/2025/adult-signature-page.pdf
+[12]: /pdf/2026/adult-signature-page.pdf
 [13]: /pdf/2025/chorister-signature-page.pdf
 [20]: https://www.paypal.com/home
 [21]: cliff@cliffhillmusic.com
